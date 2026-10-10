@@ -1,0 +1,10130 @@
+{
+ "meta": {
+  "usd_brl": 5.25,
+  "price_date": "2026-10-10",
+  "built": "2026-10-10",
+  "count": 96
+ },
+ "brands": {
+  "Apple": {
+   "br": "Venda oficial ampla",
+   "br_lvl": 3,
+   "forte": "Desempenho, vídeo, valor de revenda e cerca de 7 anos de atualizações.",
+   "fraco": "Preço oficial alto no Brasil, carregamento lento e nenhuma opção de entrada.",
+   "upd": "≈7 anos"
+  },
+  "Samsung": {
+   "br": "Venda oficial ampla, fabricação local",
+   "br_lvl": 3,
+   "forte": "Maior variedade de faixas de preço, telas AMOLED e até 7 anos de atualizações.",
+   "fraco": "Baterias e carregamento conservadores; preço de lançamento cai rápido.",
+   "upd": "6 a 7 anos"
+  },
+  "Motorola": {
+   "br": "Venda oficial ampla, fabricação local",
+   "br_lvl": 3,
+   "forte": "Bom preço de rua, Android limpo e resistência IP68/IP69 até nos baratos.",
+   "fraco": "Poucos anos de atualização na linha Moto G.",
+   "upd": "2 a 4 anos (7 na Signature 27)"
+  },
+  "Xiaomi": {
+   "br": "Venda oficial com preço alto; muita importação",
+   "br_lvl": 2,
+   "forte": "Muito hardware pelo preço, baterias enormes e carga de até 100 W.",
+   "fraco": "Preço oficial no Brasil bem acima do importado; garantia depende do canal.",
+   "upd": "2 a 6 anos"
+  },
+  "Poco": {
+   "br": "Submarca Xiaomi; maioria via importação",
+   "br_lvl": 2,
+   "forte": "Desempenho e bateria por real entre os melhores do mercado.",
+   "fraco": "Câmeras medianas e atualização curta nos modelos baratos.",
+   "upd": "2 a 5 anos"
+  },
+  "Realme": {
+   "br": "Venda oficial limitada",
+   "br_lvl": 2,
+   "forte": "Baterias de 7.000 mAh, carga rápida e IP69 em quase toda a linha.",
+   "fraco": "Catálogo oficial pequeno no Brasil; desempenho modesto nos intermediários.",
+   "upd": "2 a 5 anos"
+  },
+  "Google": {
+   "br": "Sem venda oficial no Brasil",
+   "br_lvl": 0,
+   "forte": "Câmera, Android puro e 7 anos de atualizações.",
+   "fraco": "Desempenho abaixo dos rivais e sem garantia no Brasil.",
+   "upd": "7 anos"
+  },
+  "OnePlus": {
+   "br": "Sem venda oficial no Brasil",
+   "br_lvl": 0,
+   "forte": "Bateria, carga rápida e desempenho de topo por preço menor.",
+   "fraco": "Só por importação, sem garantia local.",
+   "upd": "4 anos + 6 de segurança"
+  },
+  "Nothing": {
+   "br": "Sem venda oficial no Brasil",
+   "br_lvl": 0,
+   "forte": "Design próprio, software limpo e boas câmeras no intermediário.",
+   "fraco": "Só por importação; desempenho mediano.",
+   "upd": "3 a 5 anos"
+  },
+  "Honor": {
+   "br": "Venda oficial limitada",
+   "br_lvl": 1,
+   "forte": "Baterias de até 11.000 mAh, telas muito brilhantes e 7 anos na linha Magic.",
+   "fraco": "Poucos modelos com preço no Brasil.",
+   "upd": "2 a 7 anos"
+  },
+  "Oppo": {
+   "br": "Venda oficial limitada",
+   "br_lvl": 1,
+   "forte": "Câmeras da linha Find entre as melhores; IP69 e carga rápida.",
+   "fraco": "Preço alto no Brasil e catálogo oficial curto.",
+   "upd": "1 a 5 anos"
+  },
+  "Vivo": {
+   "br": "Vendida no Brasil como Jovi",
+   "br_lvl": 1,
+   "forte": "Câmeras com zoom forte, telas de ponta e bateria.",
+   "fraco": "Catálogo pequeno no Brasil e topo de linha muito caro.",
+   "upd": "4 a 5 anos"
+  },
+  "Infinix": {
+   "br": "Venda oficial limitada",
+   "br_lvl": 1,
+   "forte": "Preço baixo com tela AMOLED de 144 Hz e carga sem fio no intermediário.",
+   "fraco": "Câmeras e desempenho simples; atualização curta.",
+   "upd": "2 a 3 anos"
+  },
+  "Tecno": {
+   "br": "Presença pequena",
+   "br_lvl": 1,
+   "forte": "Preço baixo e bateria grande.",
+   "fraco": "Política de atualização pouco clara e quase nada à venda no Brasil.",
+   "upd": "Não informado"
+  },
+  "Asus": {
+   "br": "Linha parada desde 2025",
+   "br_lvl": 1,
+   "forte": "Desempenho gamer, fone P2 e tela de 185 Hz no ROG.",
+   "fraco": "Só 2 anos de atualização e nenhum lançamento em 2026.",
+   "upd": "2 anos"
+  }
+ },
+ "phones": [
+  {
+   "id": "apple-iphone-duo",
+   "brand": "Apple",
+   "model": "iPhone Duo",
+   "name": "iPhone Duo",
+   "tier": "topo",
+   "fold": "book",
+   "released": "2026-10",
+   "usd": 1999,
+   "brl_launch": 21999,
+   "brl_now": null,
+   "br_note": null,
+   "score": 93,
+   "s": {
+    "tela": 92,
+    "camera": 91,
+    "desempenho": 99,
+    "jogos": 99,
+    "bateria": 87,
+    "conect": 93
+   },
+   "disp": {
+    "type": "OLED",
+    "inch": 7.6,
+    "res": "1878 x 2670",
+    "ppi": 430,
+    "hz": 120,
+    "nits": 1600,
+    "nits_test": null,
+    "prot": "Ceramic Shield 2"
+   },
+   "body": {
+    "h": 117.8,
+    "w": 164.6,
+    "t": 5.2,
+    "g": 254,
+    "ip": "IP68",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Black"
+    ]
+   },
+   "chip": "A20 Pro",
+   "nm": 2,
+   "gb6s": 4731,
+   "gb6m": 13202,
+   "antutu": 3061434,
+   "ram": [
+    12
+   ],
+   "rom": [
+    256,
+    512,
+    1024,
+    2048
+   ],
+   "rom_type": "NVMe",
+   "sd": false,
+   "os": "iOS 27",
+   "ui": null,
+   "os_years": 7,
+   "sec_years": 7,
+   "bat": {
+    "mah": 5400,
+    "w": null,
+    "wl": 20,
+    "rev": true,
+    "p30": null,
+    "full": null,
+    "life": null,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "48 MP principal f/1.6",
+     "48 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 48,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": null,
+    "video": "4K120",
+    "selfie": 12,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/apple-iphone-duo"
+  },
+  {
+   "id": "apple-iphone-18-pro-max",
+   "brand": "Apple",
+   "model": "iPhone 18 Pro Max",
+   "name": "iPhone 18 Pro Max",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-09",
+   "usd": 1299,
+   "brl_launch": 12999,
+   "brl_now": 12999,
+   "br_note": null,
+   "score": 96,
+   "s": {
+    "tela": 95,
+    "camera": 97,
+    "desempenho": 99,
+    "jogos": 99,
+    "bateria": 93,
+    "conect": 91
+   },
+   "disp": {
+    "type": "OLED",
+    "inch": 6.9,
+    "res": "1320 x 2868",
+    "ppi": 460,
+    "hz": 120,
+    "nits": 1600,
+    "nits_test": 2731,
+    "prot": "Ceramic Shield 2"
+   },
+   "body": {
+    "h": 163.4,
+    "w": 78,
+    "t": 8.75,
+    "g": 249,
+    "ip": "IP68",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "Black",
+     "Silver",
+     "Blue",
+     "Burgundy"
+    ]
+   },
+   "chip": "A20 Pro",
+   "nm": 2,
+   "gb6s": 4725,
+   "gb6m": 12575,
+   "antutu": 3504165,
+   "ram": [
+    12
+   ],
+   "rom": [
+    256,
+    512,
+    1024,
+    2048
+   ],
+   "rom_type": "NVMe",
+   "sd": false,
+   "os": "iOS 27",
+   "ui": null,
+   "os_years": 7,
+   "sec_years": 7,
+   "bat": {
+    "mah": 5567,
+    "w": 60,
+    "wl": 25,
+    "rev": true,
+    "p30": 81,
+    "full": 55,
+    "life": 33.93,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "48 MP principal f/1.5-4.0 24mm",
+     "48 MP tele f/2.8 100mm",
+     "48 MP ultra-angular f/2.2 13mm"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 48,
+    "sensor": "1/1.28\"",
+    "ois": true,
+    "zoom": 4,
+    "video": "4K120",
+    "selfie": 18,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/apple-iphone-18-pro-max"
+  },
+  {
+   "id": "apple-iphone-18-pro",
+   "brand": "Apple",
+   "model": "iPhone 18 Pro",
+   "name": "iPhone 18 Pro",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-09",
+   "usd": 1199,
+   "brl_launch": 11999,
+   "brl_now": 10799,
+   "br_note": null,
+   "score": 93,
+   "s": {
+    "tela": 94,
+    "camera": 98,
+    "desempenho": 99,
+    "jogos": 99,
+    "bateria": 78,
+    "conect": 91
+   },
+   "disp": {
+    "type": "OLED",
+    "inch": 6.3,
+    "res": "1206 x 2622",
+    "ppi": 458,
+    "hz": 120,
+    "nits": 1600,
+    "nits_test": null,
+    "prot": "Ceramic Shield 2"
+   },
+   "body": {
+    "h": 150,
+    "w": 71.9,
+    "t": 8.75,
+    "g": 211,
+    "ip": "IP68",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "Black",
+     "Silver",
+     "Blue",
+     "Burgundy"
+    ]
+   },
+   "chip": "A20 Pro",
+   "nm": 2,
+   "gb6s": 4719,
+   "gb6m": 12677,
+   "antutu": 3428810,
+   "ram": [
+    12
+   ],
+   "rom": [
+    256,
+    512,
+    1024,
+    2048
+   ],
+   "rom_type": "NVMe",
+   "sd": false,
+   "os": "iOS 27",
+   "ui": null,
+   "os_years": 7,
+   "sec_years": 7,
+   "bat": {
+    "mah": 4288,
+    "w": 60,
+    "wl": 25,
+    "rev": true,
+    "p30": 80,
+    "full": 50,
+    "life": null,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "48 MP principal f/1.5-4.0 OIS",
+     "48 MP tele f/2.8 OIS",
+     "48 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 48,
+    "sensor": "1/1.28\"",
+    "ois": true,
+    "zoom": 4,
+    "video": "4K120",
+    "selfie": 18,
+    "dxo": 172
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/apple-iphone-18-pro"
+  },
+  {
+   "id": "samsung-galaxy-s26-ultra",
+   "brand": "Samsung",
+   "model": "Galaxy S26 Ultra",
+   "name": "Galaxy S26 Ultra",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-03",
+   "usd": 1299,
+   "brl_launch": 11499,
+   "brl_now": 7075,
+   "br_note": null,
+   "score": 91,
+   "s": {
+    "tela": 95,
+    "camera": 93,
+    "desempenho": 98,
+    "jogos": 97,
+    "bateria": 78,
+    "conect": 88
+   },
+   "disp": {
+    "type": "Dynamic AMOLED",
+    "inch": 6.9,
+    "res": "1440 x 3120",
+    "ppi": 500,
+    "hz": 120,
+    "nits": 2600,
+    "nits_test": 2829,
+    "prot": "Gorilla Armor 2"
+   },
+   "body": {
+    "h": 163.6,
+    "w": 78.1,
+    "t": 7.9,
+    "g": 214,
+    "ip": "IP68",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Black",
+     "Silver",
+     "Blue",
+     "Pink",
+     "Purple"
+    ]
+   },
+   "chip": "Snapdragon 8 Elite Gen 5",
+   "nm": 3,
+   "gb6s": 3624,
+   "gb6m": 11049,
+   "antutu": 3939244,
+   "ram": [
+    12,
+    16
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.0",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "One UI 8.5",
+   "os_years": 7,
+   "sec_years": 7,
+   "bat": {
+    "mah": 5000,
+    "w": 60,
+    "wl": 25,
+    "rev": true,
+    "p30": 84,
+    "full": 43,
+    "life": 28.83,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "200 MP principal f/1.4 OIS",
+     "50 MP tele 5x f/2.9 OIS",
+     "10 MP tele",
+     "50 MP ultra-angular f/1.9"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "tele",
+     "ultra"
+    ],
+    "main": 200,
+    "sensor": "1/1.3\"",
+    "ois": true,
+    "zoom": 5,
+    "video": "8K30",
+    "selfie": 12,
+    "dxo": 157
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 92
+   },
+   "src": "https://nanoreview.net/en/phone/samsung-galaxy-s26-ultra"
+  },
+  {
+   "id": "apple-iphone-17-pro-max",
+   "brand": "Apple",
+   "model": "iPhone 17 Pro Max",
+   "name": "iPhone 17 Pro Max",
+   "tier": "topo",
+   "fold": null,
+   "released": "2025-09",
+   "usd": 1199,
+   "brl_launch": 12499,
+   "brl_now": 9157,
+   "br_note": null,
+   "score": 93,
+   "s": {
+    "tela": 89,
+    "camera": 95,
+    "desempenho": 99,
+    "jogos": 95,
+    "bateria": 88,
+    "conect": 91
+   },
+   "disp": {
+    "type": "OLED",
+    "inch": 6.9,
+    "res": "1320 x 2868",
+    "ppi": 460,
+    "hz": 120,
+    "nits": 1600,
+    "nits_test": 1001,
+    "prot": "Ceramic Shield 2"
+   },
+   "body": {
+    "h": 163.4,
+    "w": 78,
+    "t": 8.75,
+    "g": 233,
+    "ip": "IP68",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "Silver",
+     "Blue",
+     "Orange"
+    ]
+   },
+   "chip": "A19 Pro",
+   "nm": 3,
+   "gb6s": 3940,
+   "gb6m": 10434,
+   "antutu": 2590567,
+   "ram": [
+    12
+   ],
+   "rom": [
+    256,
+    512,
+    1024,
+    2048
+   ],
+   "rom_type": "NVMe",
+   "sd": false,
+   "os": "iOS 26",
+   "ui": null,
+   "os_years": 7,
+   "sec_years": 7,
+   "bat": {
+    "mah": 5088,
+    "w": 40,
+    "wl": 25,
+    "rev": true,
+    "p30": 65,
+    "full": 72,
+    "life": 33.2,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "48 MP principal f/1.78 OIS",
+     "48 MP tele f/2.8 OIS",
+     "48 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 48,
+    "sensor": "1/1.28\"",
+    "ois": true,
+    "zoom": 4,
+    "video": "4K120",
+    "selfie": 18,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 82.2
+   },
+   "src": "https://nanoreview.net/en/phone/apple-iphone-17-pro-max"
+  },
+  {
+   "id": "apple-iphone-17-pro",
+   "brand": "Apple",
+   "model": "iPhone 17 Pro",
+   "name": "iPhone 17 Pro",
+   "tier": "topo",
+   "fold": null,
+   "released": "2025-09",
+   "usd": 1099,
+   "brl_launch": 11499,
+   "brl_now": 7314,
+   "br_note": null,
+   "score": 90,
+   "s": {
+    "tela": 89,
+    "camera": 97,
+    "desempenho": 99,
+    "jogos": 93,
+    "bateria": 71,
+    "conect": 91
+   },
+   "disp": {
+    "type": "OLED",
+    "inch": 6.3,
+    "res": "1206 x 2622",
+    "ppi": 460,
+    "hz": 120,
+    "nits": 1600,
+    "nits_test": 1007,
+    "prot": "Ceramic Shield 2"
+   },
+   "body": {
+    "h": 150,
+    "w": 71.9,
+    "t": 8.75,
+    "g": 206,
+    "ip": "IP68",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "Silver",
+     "Blue",
+     "Orange"
+    ]
+   },
+   "chip": "A19 Pro",
+   "nm": 3,
+   "gb6s": 3992,
+   "gb6m": 10688,
+   "antutu": 2538751,
+   "ram": [
+    12
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "NVMe",
+   "sd": false,
+   "os": "iOS 26",
+   "ui": null,
+   "os_years": 7,
+   "sec_years": 7,
+   "bat": {
+    "mah": 4252,
+    "w": 40,
+    "wl": 25,
+    "rev": true,
+    "p30": 70,
+    "full": 78,
+    "life": 26.8,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "48 MP principal f/1.78 OIS",
+     "48 MP tele f/2.8 OIS",
+     "48 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 48,
+    "sensor": "1/1.28\"",
+    "ois": true,
+    "zoom": 4,
+    "video": "4K120",
+    "selfie": 18,
+    "dxo": 168
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/apple-iphone-17-pro"
+  },
+  {
+   "id": "apple-iphone-air",
+   "brand": "Apple",
+   "model": "iPhone Air",
+   "name": "iPhone Air",
+   "tier": "topo",
+   "fold": null,
+   "released": "2025-09",
+   "usd": 999,
+   "brl_launch": 10499,
+   "brl_now": 6117,
+   "br_note": null,
+   "score": 83,
+   "s": {
+    "tela": 89,
+    "camera": 82,
+    "desempenho": 99,
+    "jogos": 86,
+    "bateria": 56,
+    "conect": 86
+   },
+   "disp": {
+    "type": "OLED",
+    "inch": 6.5,
+    "res": "1260 x 2736",
+    "ppi": 460,
+    "hz": 120,
+    "nits": 1600,
+    "nits_test": 1003,
+    "prot": "Ceramic Shield 2"
+   },
+   "body": {
+    "h": 156.2,
+    "w": 74.7,
+    "t": 5.6,
+    "g": 165,
+    "ip": "IP68",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Black",
+     "Gold",
+     "Blue"
+    ]
+   },
+   "chip": "A19 Pro",
+   "nm": 3,
+   "gb6s": 4044,
+   "gb6m": 11101,
+   "antutu": 2568709,
+   "ram": [
+    12
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "NVMe",
+   "sd": false,
+   "os": "iOS 26",
+   "ui": null,
+   "os_years": 7,
+   "sec_years": 7,
+   "bat": {
+    "mah": 3149,
+    "w": 30,
+    "wl": 20,
+    "rev": true,
+    "p30": 57,
+    "full": 93,
+    "life": 22.25,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "48 MP principal f/1.6 OIS"
+    ],
+    "kinds": [
+     "main"
+    ],
+    "main": 48,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": null,
+    "video": "4K60",
+    "selfie": 18,
+    "dxo": 141
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": false,
+    "db": 84.3
+   },
+   "src": "https://nanoreview.net/en/phone/apple-iphone-air"
+  },
+  {
+   "id": "apple-iphone-17e",
+   "brand": "Apple",
+   "model": "iPhone 17e",
+   "name": "iPhone 17e",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-03",
+   "usd": 599,
+   "brl_launch": 5800,
+   "brl_now": 4049,
+   "br_note": null,
+   "score": 79,
+   "s": {
+    "tela": 73,
+    "camera": 73,
+    "desempenho": 94,
+    "jogos": 79,
+    "bateria": 71,
+    "conect": 74
+   },
+   "disp": {
+    "type": "OLED",
+    "inch": 6.1,
+    "res": "1170 x 2532",
+    "ppi": 460,
+    "hz": 60,
+    "nits": 1200,
+    "nits_test": 818,
+    "prot": "Ceramic Shield 2"
+   },
+   "body": {
+    "h": 146.7,
+    "w": 71.5,
+    "t": 7.8,
+    "g": 169,
+    "ip": "IP68",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Black",
+     "Pink"
+    ]
+   },
+   "chip": "A19",
+   "nm": 3,
+   "gb6s": 3595,
+   "gb6m": 9245,
+   "antutu": 2272175,
+   "ram": [
+    8
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "NVMe",
+   "sd": false,
+   "os": "iOS 26.3",
+   "ui": null,
+   "os_years": 7,
+   "sec_years": 7,
+   "bat": {
+    "mah": 4005,
+    "w": 25,
+    "wl": 15,
+    "rev": false,
+    "p30": 59,
+    "full": 94,
+    "life": 28.17,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "48 MP principal f/1.6 OIS"
+    ],
+    "kinds": [
+     "main"
+    ],
+    "main": 48,
+    "sensor": "1/2.55\"",
+    "ois": true,
+    "zoom": null,
+    "video": "4K60",
+    "selfie": 12,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 6",
+    "bt": "5.3",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 88.5
+   },
+   "src": "https://nanoreview.net/en/phone/apple-iphone-17e"
+  },
+  {
+   "id": "samsung-galaxy-s26-plus-snapdragon",
+   "brand": "Samsung",
+   "model": "Galaxy S26+",
+   "name": "Galaxy S26+",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-03",
+   "usd": 1099,
+   "brl_launch": 9199,
+   "brl_now": 4999,
+   "br_note": "Ficha da versão Snapdragon, a vendida no Brasil.",
+   "score": 88,
+   "s": {
+    "tela": 96,
+    "camera": 81,
+    "desempenho": 97,
+    "jogos": 95,
+    "bateria": 77,
+    "conect": 88
+   },
+   "disp": {
+    "type": "Dynamic AMOLED",
+    "inch": 6.7,
+    "res": "1440 x 3120",
+    "ppi": 516,
+    "hz": 120,
+    "nits": 2600,
+    "nits_test": null,
+    "prot": "Corning Gorilla Armor 2"
+   },
+   "body": {
+    "h": 158.4,
+    "w": 75.8,
+    "t": 7.3,
+    "g": 190,
+    "ip": "IP68",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Black",
+     "Silver",
+     "Blue",
+     "Pink",
+     "Purple"
+    ]
+   },
+   "chip": "Snapdragon 8 Elite Gen 5",
+   "nm": 3,
+   "gb6s": 3634,
+   "gb6m": 11036,
+   "antutu": 3811131,
+   "ram": [
+    12
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "UFS 4.0",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "One UI 8.5",
+   "os_years": 7,
+   "sec_years": 7,
+   "bat": {
+    "mah": 4900,
+    "w": 45,
+    "wl": 25,
+    "rev": true,
+    "p30": 69,
+    "full": 61,
+    "life": null,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS",
+     "10 MP tele f/2.4 OIS",
+     "12 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": 3,
+    "video": "8K30",
+    "selfie": 12,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/samsung-galaxy-s26-plus-snapdragon"
+  },
+  {
+   "id": "samsung-galaxy-s26-snapdragon",
+   "brand": "Samsung",
+   "model": "Galaxy S26",
+   "name": "Galaxy S26",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-03",
+   "usd": 899,
+   "brl_launch": 7499,
+   "brl_now": 4118,
+   "br_note": "Ficha da versão Snapdragon, a vendida no Brasil.",
+   "score": 84,
+   "s": {
+    "tela": 89,
+    "camera": 79,
+    "desempenho": 97,
+    "jogos": 96,
+    "bateria": 65,
+    "conect": 84
+   },
+   "disp": {
+    "type": "Dynamic AMOLED",
+    "inch": 6.3,
+    "res": "1080 x 2340",
+    "ppi": 411,
+    "hz": 120,
+    "nits": 2600,
+    "nits_test": null,
+    "prot": "Gorilla Glass Victus 2"
+   },
+   "body": {
+    "h": 149.6,
+    "w": 71.7,
+    "t": 7.2,
+    "g": 167,
+    "ip": "IP68",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Black",
+     "Blue",
+     "Pink",
+     "Purple"
+    ]
+   },
+   "chip": "Snapdragon 8 Elite Gen 5",
+   "nm": 3,
+   "gb6s": 3551,
+   "gb6m": 10235,
+   "antutu": 3898892,
+   "ram": [
+    12
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "UFS 4.0",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "One UI 8.5",
+   "os_years": 7,
+   "sec_years": 7,
+   "bat": {
+    "mah": 4300,
+    "w": 25,
+    "wl": 15,
+    "rev": true,
+    "p30": null,
+    "full": null,
+    "life": null,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS",
+     "10 MP tele f/2.4 OIS",
+     "12 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": 3,
+    "video": "8K30",
+    "selfie": 12,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "5.4",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/samsung-galaxy-s26-snapdragon"
+  },
+  {
+   "id": "samsung-galaxy-s26-fe",
+   "brand": "Samsung",
+   "model": "Galaxy S26 FE",
+   "name": "Galaxy S26 FE",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-09",
+   "usd": 699,
+   "brl_launch": 5499,
+   "brl_now": 5499,
+   "br_note": null,
+   "score": 79,
+   "s": {
+    "tela": 90,
+    "camera": 77,
+    "desempenho": 78,
+    "jogos": 75,
+    "bateria": 72,
+    "conect": 78
+   },
+   "disp": {
+    "type": "Dynamic AMOLED",
+    "inch": 6.7,
+    "res": "1080 x 2340",
+    "ppi": 385,
+    "hz": 120,
+    "nits": 1900,
+    "nits_test": 1863,
+    "prot": "Gorilla Glass Victus Plus"
+   },
+   "body": {
+    "h": 161.6,
+    "w": 76.9,
+    "t": 7.4,
+    "g": 193,
+    "ip": "IP68",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "Gray",
+     "Blue",
+     "Purple"
+    ]
+   },
+   "chip": "Exynos 2500",
+   "nm": 3,
+   "gb6s": 2217,
+   "gb6m": 7699,
+   "antutu": 2289696,
+   "ram": [
+    8
+   ],
+   "rom": [
+    128,
+    256,
+    512
+   ],
+   "rom_type": "UFS 4.0",
+   "sd": false,
+   "os": "Android 17",
+   "ui": "One UI 9",
+   "os_years": 7,
+   "sec_years": 7,
+   "bat": {
+    "mah": 4900,
+    "w": 45,
+    "wl": 15,
+    "rev": true,
+    "p30": 69,
+    "full": 68,
+    "life": 25.63,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS",
+     "8 MP tele f/2.4 OIS",
+     "12 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.57\"",
+    "ois": true,
+    "zoom": 3,
+    "video": "8K30",
+    "selfie": 12,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 6E",
+    "bt": "5.4",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/samsung-galaxy-s26-fe"
+  },
+  {
+   "id": "samsung-galaxy-z-fold-8",
+   "brand": "Samsung",
+   "model": "Galaxy Z Fold 8",
+   "name": "Galaxy Z Fold 8",
+   "tier": "topo",
+   "fold": "book",
+   "released": "2026-07",
+   "usd": 1899,
+   "brl_launch": 12599,
+   "brl_now": 10529,
+   "br_note": null,
+   "score": 85,
+   "s": {
+    "tela": 91,
+    "camera": 77,
+    "desempenho": 96,
+    "jogos": 94,
+    "bateria": 72,
+    "conect": 88
+   },
+   "disp": {
+    "type": "Dynamic AMOLED",
+    "inch": 7.6,
+    "res": "1828 x 2448",
+    "ppi": 403,
+    "hz": 120,
+    "nits": 3000,
+    "nits_test": 3034,
+    "prot": "Corning Gorilla Glass Ceramic 3"
+   },
+   "body": {
+    "h": 123.9,
+    "w": 161.4,
+    "t": 4.5,
+    "g": 201,
+    "ip": "IP48",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Gray",
+     "Green",
+     "Purple"
+    ]
+   },
+   "chip": "Snapdragon 8 Elite Gen 5",
+   "nm": 3,
+   "gb6s": 3645,
+   "gb6m": 11102,
+   "antutu": 3382020,
+   "ram": [
+    12,
+    16
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.0",
+   "sd": false,
+   "os": "Android 17",
+   "ui": "One UI 9",
+   "os_years": 7,
+   "sec_years": 7,
+   "bat": {
+    "mah": 4800,
+    "w": 45,
+    "wl": 20,
+    "rev": true,
+    "p30": 65,
+    "full": 69,
+    "life": 26.48,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS",
+     "50 MP ultra-angular f/1.9"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.57\"",
+    "ois": true,
+    "zoom": null,
+    "video": "8K30",
+    "selfie": 10,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/samsung-galaxy-z-fold-8"
+  },
+  {
+   "id": "samsung-galaxy-z-fold-8-ultra",
+   "brand": "Samsung",
+   "model": "Galaxy Z Fold 8 Ultra",
+   "name": "Galaxy Z Fold 8 Ultra",
+   "tier": "topo",
+   "fold": "book",
+   "released": "2026-07",
+   "usd": 2099,
+   "brl_launch": 14599,
+   "brl_now": 10787,
+   "br_note": null,
+   "score": 87,
+   "s": {
+    "tela": 91,
+    "camera": 85,
+    "desempenho": 96,
+    "jogos": 94,
+    "bateria": 71,
+    "conect": 88
+   },
+   "disp": {
+    "type": "Dynamic AMOLED",
+    "inch": 8,
+    "res": "2256 x 2504",
+    "ppi": 422,
+    "hz": 120,
+    "nits": 3000,
+    "nits_test": 3005,
+    "prot": "Corning Gorilla Glass Ceramic 3"
+   },
+   "body": {
+    "h": 143.2,
+    "w": 158.4,
+    "t": 4.1,
+    "g": 215,
+    "ip": "IP48",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Gray",
+     "Purple"
+    ]
+   },
+   "chip": "Snapdragon 8 Elite Gen 5",
+   "nm": 3,
+   "gb6s": 3681,
+   "gb6m": 10934,
+   "antutu": 3453998,
+   "ram": [
+    12,
+    16
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.0",
+   "sd": false,
+   "os": "Android 17",
+   "ui": "One UI 9",
+   "os_years": 7,
+   "sec_years": 7,
+   "bat": {
+    "mah": 5000,
+    "w": 45,
+    "wl": 20,
+    "rev": true,
+    "p30": 71,
+    "full": 60,
+    "life": 25.63,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "200 MP principal f/1.7 OIS",
+     "10 MP tele f/2.4 OIS",
+     "50 MP ultra-angular f/1.9"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 200,
+    "sensor": "1/1.3\"",
+    "ois": true,
+    "zoom": 3,
+    "video": "8K30",
+    "selfie": 10,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 87.1
+   },
+   "src": "https://nanoreview.net/en/phone/samsung-galaxy-z-fold-8-ultra"
+  },
+  {
+   "id": "samsung-galaxy-z-flip-8",
+   "brand": "Samsung",
+   "model": "Galaxy Z Flip 8",
+   "name": "Galaxy Z Flip 8",
+   "tier": "topo",
+   "fold": "flip",
+   "released": "2026-07",
+   "usd": 1199,
+   "brl_launch": 9199,
+   "brl_now": 6562,
+   "br_note": null,
+   "score": 83,
+   "s": {
+    "tela": 90,
+    "camera": 77,
+    "desempenho": 94,
+    "jogos": 95,
+    "bateria": 64,
+    "conect": 84
+   },
+   "disp": {
+    "type": "Dynamic AMOLED",
+    "inch": 6.9,
+    "res": "1080 x 2520",
+    "ppi": 400,
+    "hz": 120,
+    "nits": 2600,
+    "nits_test": 2698,
+    "prot": "Gorilla Glass Victus 2"
+   },
+   "body": {
+    "h": 166.9,
+    "w": 75.4,
+    "t": 6.1,
+    "g": 180,
+    "ip": "IP48",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "Gray",
+     "Green",
+     "Pink"
+    ]
+   },
+   "chip": "Exynos 2600",
+   "nm": 2,
+   "gb6s": 3235,
+   "gb6m": 10904,
+   "antutu": 3113347,
+   "ram": [
+    12
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "UFS 4.0",
+   "sd": false,
+   "os": "Android 17",
+   "ui": "One UI 9.0",
+   "os_years": 7,
+   "sec_years": 7,
+   "bat": {
+    "mah": 4300,
+    "w": 25,
+    "wl": 15,
+    "rev": true,
+    "p30": 56,
+    "full": 79,
+    "life": 24.45,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS",
+     "12 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.57\"",
+    "ois": true,
+    "zoom": null,
+    "video": "4K60",
+    "selfie": 10,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "5.4",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/samsung-galaxy-z-flip-8"
+  },
+  {
+   "id": "samsung-galaxy-a57-5g",
+   "brand": "Samsung",
+   "model": "Galaxy A57 5G",
+   "name": "Galaxy A57 5G",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-04",
+   "usd": 549,
+   "brl_launch": 3599,
+   "brl_now": 1619,
+   "br_note": null,
+   "score": 70,
+   "s": {
+    "tela": 88,
+    "camera": 69,
+    "desempenho": 56,
+    "jogos": 43,
+    "bateria": 71,
+    "conect": 77
+   },
+   "disp": {
+    "type": "Super AMOLED",
+    "inch": 6.7,
+    "res": "1080 x 2340",
+    "ppi": 385,
+    "hz": 120,
+    "nits": 1900,
+    "nits_test": 1875,
+    "prot": "Gorilla Glass Victus Plus"
+   },
+   "body": {
+    "h": 161.5,
+    "w": 76.8,
+    "t": 6.9,
+    "g": 179,
+    "ip": "IP68",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "Gray",
+     "Blue",
+     "Purple",
+     "Aqua"
+    ]
+   },
+   "chip": "Exynos 1680",
+   "nm": 4,
+   "gb6s": 1382,
+   "gb6m": 4477,
+   "antutu": 1390055,
+   "ram": [
+    8,
+    12
+   ],
+   "rom": [
+    128,
+    256,
+    512
+   ],
+   "rom_type": "UFS 3.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "One UI 8.5",
+   "os_years": 6,
+   "sec_years": 6,
+   "bat": {
+    "mah": 5000,
+    "w": 45,
+    "wl": 0,
+    "rev": true,
+    "p30": 64,
+    "full": 69,
+    "life": 24.5,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS",
+     "12 MP ultra-angular f/2.2",
+     "5 MP macro f/2.4"
+    ],
+    "kinds": [
+     "main",
+     "ultra",
+     "macro"
+    ],
+    "main": 50,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": null,
+    "video": "4K30",
+    "selfie": 12,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 6E",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 89.1
+   },
+   "src": "https://nanoreview.net/en/phone/samsung-galaxy-a57-5g"
+  },
+  {
+   "id": "samsung-galaxy-a37-5g",
+   "brand": "Samsung",
+   "model": "Galaxy A37 5G",
+   "name": "Galaxy A37 5G",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-04",
+   "usd": 449,
+   "brl_launch": 3299,
+   "brl_now": 1699,
+   "br_note": null,
+   "score": 65,
+   "s": {
+    "tela": 85,
+    "camera": 67,
+    "desempenho": 46,
+    "jogos": 25,
+    "bateria": 68,
+    "conect": 73
+   },
+   "disp": {
+    "type": "Super AMOLED",
+    "inch": 6.7,
+    "res": "1080 x 2340",
+    "ppi": 385,
+    "hz": 120,
+    "nits": 1900,
+    "nits_test": 1922,
+    "prot": "Gorilla Glass Victus Plus"
+   },
+   "body": {
+    "h": 162.9,
+    "w": 78.2,
+    "t": 7.4,
+    "g": 196,
+    "ip": "IP68",
+    "back": "Glass",
+    "frame": "Plastic",
+    "colors": [
+     "White",
+     "Gray",
+     "Green",
+     "Purple"
+    ]
+   },
+   "chip": "Exynos 1480",
+   "nm": 4,
+   "gb6s": 1153,
+   "gb6m": 3457,
+   "antutu": 1064079,
+   "ram": [
+    6,
+    8,
+    12
+   ],
+   "rom": [
+    128,
+    256
+   ],
+   "rom_type": "UFS 3.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "One UI 8.5",
+   "os_years": 6,
+   "sec_years": 6,
+   "bat": {
+    "mah": 5000,
+    "w": 45,
+    "wl": 0,
+    "rev": false,
+    "p30": 62,
+    "full": 72,
+    "life": 23.38,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS",
+     "8 MP ultra-angular f/2.2",
+     "5 MP macro f/2.4"
+    ],
+    "kinds": [
+     "main",
+     "ultra",
+     "macro"
+    ],
+    "main": 50,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": null,
+    "video": "4K30",
+    "selfie": 12,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 6",
+    "bt": "5.4",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 90.8
+   },
+   "src": "https://nanoreview.net/en/phone/samsung-galaxy-a37-5g"
+  },
+  {
+   "id": "samsung-galaxy-a27-5g",
+   "brand": "Samsung",
+   "model": "Galaxy A27 5G",
+   "name": "Galaxy A27 5G",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-07",
+   "usd": 349,
+   "brl_launch": null,
+   "brl_now": 1436,
+   "br_note": null,
+   "score": 61,
+   "s": {
+    "tela": 85,
+    "camera": 60,
+    "desempenho": 43,
+    "jogos": 21,
+    "bateria": 63,
+    "conect": 66
+   },
+   "disp": {
+    "type": "Super AMOLED",
+    "inch": 6.7,
+    "res": "1080 x 2340",
+    "ppi": 385,
+    "hz": 120,
+    "nits": 1400,
+    "nits_test": 1095,
+    "prot": "Gorilla Glass Victus Plus"
+   },
+   "body": {
+    "h": 162.4,
+    "w": 78.2,
+    "t": 7.8,
+    "g": 200,
+    "ip": "IP64",
+    "back": "Glass",
+    "frame": "Plastic",
+    "colors": [
+     "Black",
+     "Blue",
+     "Green",
+     "Pink"
+    ]
+   },
+   "chip": "Snapdragon 6 Gen 3",
+   "nm": 4,
+   "gb6s": 1002,
+   "gb6m": 2993,
+   "antutu": 903337,
+   "ram": [
+    6,
+    8
+   ],
+   "rom": [
+    128,
+    256
+   ],
+   "rom_type": "UFS 3.1",
+   "sd": true,
+   "os": "Android 16",
+   "ui": "One UI 8.5",
+   "os_years": 6,
+   "sec_years": 6,
+   "bat": {
+    "mah": 5000,
+    "w": 25,
+    "wl": 0,
+    "rev": false,
+    "p30": 50,
+    "full": 88,
+    "life": 23.2,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS",
+     "5 MP ultra-angular f/2.2",
+     "2 MP macro f/2.4"
+    ],
+    "kinds": [
+     "main",
+     "ultra",
+     "macro"
+    ],
+    "main": 50,
+    "sensor": "1/2.76\"",
+    "ois": true,
+    "zoom": null,
+    "video": "4K30",
+    "selfie": 12,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 5",
+    "bt": "5.1",
+    "nfc": "region",
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": false,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/samsung-galaxy-a27-5g"
+  },
+  {
+   "id": "samsung-galaxy-a17-5g",
+   "brand": "Samsung",
+   "model": "Galaxy A17 5G",
+   "name": "Galaxy A17 5G",
+   "tier": "basico",
+   "fold": null,
+   "released": "2025-08",
+   "usd": 229,
+   "brl_launch": null,
+   "brl_now": 861,
+   "br_note": null,
+   "score": 52,
+   "s": {
+    "tela": 71,
+    "camera": 51,
+    "desempenho": 34,
+    "jogos": 14,
+    "bateria": 52,
+    "conect": 68
+   },
+   "disp": {
+    "type": "Super AMOLED",
+    "inch": 6.7,
+    "res": "1080 x 2340",
+    "ppi": 385,
+    "hz": 90,
+    "nits": 800,
+    "nits_test": 740,
+    "prot": "Gorilla Glass Victus"
+   },
+   "body": {
+    "h": 164.4,
+    "w": 77.9,
+    "t": 7.5,
+    "g": 192,
+    "ip": "IP54",
+    "back": "Glass",
+    "frame": "Plastic",
+    "colors": [
+     "Black",
+     "Gray",
+     "Blue"
+    ]
+   },
+   "chip": "Exynos 1330",
+   "nm": 5,
+   "gb6s": 963,
+   "gb6m": 2193,
+   "antutu": 632461,
+   "ram": [
+    4,
+    6,
+    8
+   ],
+   "rom": [
+    128,
+    256
+   ],
+   "rom_type": "UFS 2.2",
+   "sd": true,
+   "os": "Android 15",
+   "ui": "One UI 8.5",
+   "os_years": 6,
+   "sec_years": 6,
+   "bat": {
+    "mah": 5000,
+    "w": 25,
+    "wl": 0,
+    "rev": false,
+    "p30": 48,
+    "full": 80,
+    "life": 18.45,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS",
+     "5 MP ultra-angular f/2.2",
+     "2 MP macro f/2.4"
+    ],
+    "kinds": [
+     "main",
+     "ultra",
+     "macro"
+    ],
+    "main": 50,
+    "sensor": "1/2.76\"",
+    "ois": true,
+    "zoom": null,
+    "video": "1080p30",
+    "selfie": 13,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 5",
+    "bt": "5.3",
+    "nfc": "region",
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": false,
+    "db": 89.2
+   },
+   "src": "https://nanoreview.net/en/phone/samsung-galaxy-a17-5g"
+  },
+  {
+   "id": "samsung-galaxy-a07-5g",
+   "brand": "Samsung",
+   "model": "Galaxy A07 5G",
+   "name": "Galaxy A07 5G",
+   "tier": "basico",
+   "fold": null,
+   "released": "2026-01",
+   "usd": null,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 53,
+   "s": {
+    "tela": 70,
+    "camera": 46,
+    "desempenho": 30,
+    "jogos": 13,
+    "bateria": 72,
+    "conect": 64
+   },
+   "disp": {
+    "type": "PLS TFT",
+    "inch": 6.7,
+    "res": "720 x 1600",
+    "ppi": 262,
+    "hz": 120,
+    "nits": 800,
+    "nits_test": null,
+    "prot": "Tempered glass"
+   },
+   "body": {
+    "h": 167.4,
+    "w": 77.4,
+    "t": 8.2,
+    "g": 199,
+    "ip": "IP54",
+    "back": "Plastic",
+    "frame": "Plastic",
+    "colors": [
+     "Black",
+     "Purple"
+    ]
+   },
+   "chip": "Dimensity 6300",
+   "nm": 6,
+   "gb6s": 780,
+   "gb6m": 2029,
+   "antutu": 509611,
+   "ram": [
+    4,
+    6
+   ],
+   "rom": [
+    64,
+    128
+   ],
+   "rom_type": "UFS 2.2",
+   "sd": true,
+   "os": "Android 16",
+   "ui": "One UI 8.5",
+   "os_years": null,
+   "sec_years": null,
+   "bat": {
+    "mah": 6000,
+    "w": 25,
+    "wl": 0,
+    "rev": false,
+    "p30": 37,
+    "full": 105,
+    "life": null,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8"
+    ],
+    "kinds": [
+     "main"
+    ],
+    "main": 50,
+    "sensor": null,
+    "ois": false,
+    "zoom": null,
+    "video": "1080p30",
+    "selfie": 8,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 5",
+    "bt": "5.3",
+    "nfc": false,
+    "esim": false,
+    "g5": true,
+    "jack": true,
+    "stereo": false,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/samsung-galaxy-a07-5g"
+  },
+  {
+   "id": "motorola-signature-27",
+   "brand": "Motorola",
+   "model": "Signature 27",
+   "name": "Motorola Signature 27",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-10",
+   "usd": 999,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 94,
+   "s": {
+    "tela": 93,
+    "camera": 95,
+    "desempenho": 98,
+    "jogos": 99,
+    "bateria": 93,
+    "conect": 92
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.8,
+    "res": "1264 x 2780",
+    "ppi": 449,
+    "hz": 165,
+    "nits": 6200,
+    "nits_test": null,
+    "prot": "Gorilla Glass Victus 2"
+   },
+   "body": {
+    "h": 162.09,
+    "w": 76.4,
+    "t": 7.2,
+    "g": 191,
+    "ip": "IP69",
+    "back": null,
+    "frame": "Metal",
+    "colors": [
+     "Black",
+     "Green"
+    ]
+   },
+   "chip": "Snapdragon 8 Elite Extreme Gen 6",
+   "nm": 2,
+   "gb6s": 4320,
+   "gb6m": 12703,
+   "antutu": 5153294,
+   "ram": [
+    12,
+    16
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 17",
+   "ui": null,
+   "os_years": 7,
+   "sec_years": 7,
+   "bat": {
+    "mah": 7000,
+    "w": 90,
+    "wl": 50,
+    "rev": true,
+    "p30": null,
+    "full": null,
+    "life": null,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.9 OIS",
+     "200 MP tele OIS",
+     "50 MP ultra-angular f/2.0"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.28\"",
+    "ois": true,
+    "zoom": 5,
+    "video": "8K30",
+    "selfie": 50,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/motorola-signature-27"
+  },
+  {
+   "id": "motorola-razr",
+   "brand": "Motorola",
+   "model": "Signature",
+   "name": "Motorola Signature",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-02",
+   "usd": 999,
+   "brl_launch": 8999,
+   "brl_now": 5129,
+   "br_note": null,
+   "score": 89,
+   "s": {
+    "tela": 92,
+    "camera": 94,
+    "desempenho": 93,
+    "jogos": 78,
+    "bateria": 80,
+    "conect": 92
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.8,
+    "res": "1264 x 2780",
+    "ppi": 449,
+    "hz": 165,
+    "nits": 6200,
+    "nits_test": 1527,
+    "prot": "Gorilla Glass Victus 2"
+   },
+   "body": {
+    "h": 162.1,
+    "w": 76.4,
+    "t": 6.99,
+    "g": 186,
+    "ip": "IP69",
+    "back": null,
+    "frame": "Metal",
+    "colors": [
+     "Black",
+     "Green"
+    ]
+   },
+   "chip": "Snapdragon 8 Gen 5",
+   "nm": 3,
+   "gb6s": 2854,
+   "gb6m": 9411,
+   "antutu": 3175557,
+   "ram": [
+    12,
+    16
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": null,
+   "os_years": null,
+   "sec_years": null,
+   "bat": {
+    "mah": 5200,
+    "w": 90,
+    "wl": 50,
+    "rev": true,
+    "p30": null,
+    "full": 42,
+    "life": 28.95,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.9 OIS",
+     "50 MP tele 71mm OIS",
+     "50 MP ultra-angular f/2.0"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.28\"",
+    "ois": true,
+    "zoom": 3,
+    "video": "8K30",
+    "selfie": 50,
+    "dxo": 164
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/motorola-razr"
+  },
+  {
+   "id": "motorola-edge-70-max",
+   "brand": "Motorola",
+   "model": "Edge 70 Max",
+   "name": "Motorola Edge 70 Max",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-07",
+   "usd": 570,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 88,
+   "s": {
+    "tela": 97,
+    "camera": 78,
+    "desempenho": 89,
+    "jogos": 78,
+    "bateria": 97,
+    "conect": 92
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.82,
+    "res": "1440 x 3168",
+    "ppi": 510,
+    "hz": 144,
+    "nits": 7000,
+    "nits_test": null,
+    "prot": "Corning Gorilla Glass 7i"
+   },
+   "body": {
+    "h": 164,
+    "w": 77,
+    "t": 8.29,
+    "g": 221,
+    "ip": "IP69",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "Black",
+     "Blue",
+     "Green"
+    ]
+   },
+   "chip": "Snapdragon 8 Gen 5",
+   "nm": 3,
+   "gb6s": 2833,
+   "gb6m": 9119,
+   "antutu": 3073131,
+   "ram": [
+    8,
+    12
+   ],
+   "rom": [
+    256
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": null,
+   "os_years": 3,
+   "sec_years": 5,
+   "bat": {
+    "mah": 7100,
+    "w": 90,
+    "wl": 25,
+    "rev": true,
+    "p30": null,
+    "full": 51,
+    "life": null,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS",
+     "8 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": null,
+    "video": "4K60",
+    "selfie": 32,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/motorola-edge-70-max"
+  },
+  {
+   "id": "motorola-edge-70-pro",
+   "brand": "Motorola",
+   "model": "Edge 70 Pro",
+   "name": "Motorola Edge 70 Pro",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-04",
+   "usd": 450,
+   "brl_launch": 4499,
+   "brl_now": 3403,
+   "br_note": null,
+   "score": 81,
+   "s": {
+    "tela": 93,
+    "camera": 84,
+    "desempenho": 71,
+    "jogos": 63,
+    "bateria": 88,
+    "conect": 77
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.8,
+    "res": "1272 x 2772",
+    "ppi": 450,
+    "hz": 144,
+    "nits": 5200,
+    "nits_test": 3125,
+    "prot": "Corning Gorilla Glass 7i"
+   },
+   "body": {
+    "h": 162.7,
+    "w": 75.6,
+    "t": 6.99,
+    "g": 183,
+    "ip": "IP69",
+    "back": "Eco-leather",
+    "frame": "Plastic",
+    "colors": [
+     "White",
+     "Gray",
+     "Green"
+    ]
+   },
+   "chip": "Dimensity 8500 Extreme",
+   "nm": 4,
+   "gb6s": 1763,
+   "gb6m": 6105,
+   "antutu": 2186261,
+   "ram": [
+    8,
+    12
+   ],
+   "rom": [
+    256
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "Hello UI",
+   "os_years": 3,
+   "sec_years": 5,
+   "bat": {
+    "mah": 6500,
+    "w": 90,
+    "wl": 0,
+    "rev": true,
+    "p30": 73,
+    "full": 49,
+    "life": 29.9,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS",
+     "50 MP tele f/2.5 OIS",
+     "50 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": 3.5,
+    "video": "4K120",
+    "selfie": 50,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "5.4",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/motorola-edge-70-pro"
+  },
+  {
+   "id": "motorola-edge-70-fusion",
+   "brand": "Motorola",
+   "model": "Edge 70 Fusion",
+   "name": "Motorola Edge 70 Fusion",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-03",
+   "usd": 420,
+   "brl_launch": 2999,
+   "brl_now": 2079,
+   "br_note": null,
+   "score": 72,
+   "s": {
+    "tela": 93,
+    "camera": 74,
+    "desempenho": 49,
+    "jogos": 25,
+    "bateria": 93,
+    "conect": 73
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.78,
+    "res": "1272 x 2772",
+    "ppi": 450,
+    "hz": 144,
+    "nits": 5200,
+    "nits_test": 1481,
+    "prot": "Corning Gorilla Glass 7i"
+   },
+   "body": {
+    "h": 162.76,
+    "w": 75.6,
+    "t": 7.21,
+    "g": 177,
+    "ip": "IP69",
+    "back": null,
+    "frame": "Plastic",
+    "colors": [
+     "Black",
+     "Gray",
+     "Blue",
+     "Green"
+    ]
+   },
+   "chip": "Snapdragon 7s Gen 3",
+   "nm": 4,
+   "gb6s": 1263,
+   "gb6m": 3421,
+   "antutu": 1149292,
+   "ram": [
+    8,
+    12
+   ],
+   "rom": [
+    128,
+    256
+   ],
+   "rom_type": "UFS 2.2",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "Hello UI",
+   "os_years": 3,
+   "sec_years": null,
+   "bat": {
+    "mah": 7000,
+    "w": 68,
+    "wl": 0,
+    "rev": false,
+    "p30": 86,
+    "full": 70,
+    "life": null,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS",
+     "13 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": null,
+    "video": "4K30",
+    "selfie": 32,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 6E",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 78.5
+   },
+   "src": "https://nanoreview.net/en/phone/motorola-edge-70-fusion"
+  },
+  {
+   "id": "motorola-razr-ultra-2026",
+   "brand": "Motorola",
+   "model": "Razr 70 Ultra",
+   "name": "Motorola Razr 70 Ultra",
+   "tier": "topo",
+   "fold": "flip",
+   "released": "2026-05",
+   "usd": 1499,
+   "brl_launch": null,
+   "brl_now": 11039,
+   "br_note": "Nos EUA se chama Razr Ultra (2026).",
+   "score": 86,
+   "s": {
+    "tela": 94,
+    "camera": 81,
+    "desempenho": 95,
+    "jogos": 89,
+    "bateria": 80,
+    "conect": 80
+   },
+   "disp": {
+    "type": "POLED",
+    "inch": 7,
+    "res": "1224 x 2992",
+    "ppi": 462,
+    "hz": 165,
+    "nits": 5000,
+    "nits_test": 1449,
+    "prot": "Gorilla Glass Ceramic"
+   },
+   "body": {
+    "h": 171.48,
+    "w": 73.99,
+    "t": 7.29,
+    "g": 199,
+    "ip": "IP48",
+    "back": null,
+    "frame": "Metal",
+    "colors": [
+     "Blue",
+     "Green"
+    ]
+   },
+   "chip": "Snapdragon 8 Elite",
+   "nm": 3,
+   "gb6s": 2874,
+   "gb6m": 8889,
+   "antutu": 3379591,
+   "ram": [
+    16
+   ],
+   "rom": [
+    512
+   ],
+   "rom_type": "UFS 4.0",
+   "sd": false,
+   "os": "Android 16",
+   "ui": null,
+   "os_years": null,
+   "sec_years": null,
+   "bat": {
+    "mah": 5000,
+    "w": 68,
+    "wl": 30,
+    "rev": true,
+    "p30": null,
+    "full": null,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS",
+     "50 MP ultra-angular f/2.0"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": null,
+    "video": "8K30",
+    "selfie": 50,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "5.4",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 83.7
+   },
+   "src": "https://nanoreview.net/en/phone/motorola-razr-ultra-2026"
+  },
+  {
+   "id": "motorola-moto-g87",
+   "brand": "Motorola",
+   "model": "Moto G87",
+   "name": "Moto G87",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-05",
+   "usd": 399,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 64,
+   "s": {
+    "tela": 93,
+    "camera": 69,
+    "desempenho": 33,
+    "jogos": 13,
+    "bateria": 74,
+    "conect": 68
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.78,
+    "res": "1272 x 2772",
+    "ppi": 450,
+    "hz": 120,
+    "nits": 5000,
+    "nits_test": 1802,
+    "prot": "Corning Gorilla Glass 7i"
+   },
+   "body": {
+    "h": 164.58,
+    "w": 77.37,
+    "t": 7.38,
+    "g": 183,
+    "ip": "IP69",
+    "back": "Eco-leather",
+    "frame": "Plastic",
+    "colors": [
+     "Blue",
+     "Brown"
+    ]
+   },
+   "chip": "Dimensity 6400",
+   "nm": 6,
+   "gb6s": 815,
+   "gb6m": 2142,
+   "antutu": 550018,
+   "ram": [
+    8,
+    12
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "UFS 2.2",
+   "sd": false,
+   "os": "Android 16",
+   "ui": null,
+   "os_years": 3,
+   "sec_years": 4,
+   "bat": {
+    "mah": 5200,
+    "w": 30,
+    "wl": 0,
+    "rev": false,
+    "p30": null,
+    "full": 90,
+    "life": null,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "200 MP principal f/1.8",
+     "8 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 200,
+    "sensor": null,
+    "ois": false,
+    "zoom": null,
+    "video": "1080p60",
+    "selfie": 32,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 5",
+    "bt": "5.4",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 87.8
+   },
+   "src": "https://nanoreview.net/en/phone/motorola-moto-g87"
+  },
+  {
+   "id": "motorola-moto-g67",
+   "brand": "Motorola",
+   "model": "Moto G67",
+   "name": "Moto G67",
+   "tier": "basico",
+   "fold": null,
+   "released": "2026-01",
+   "usd": 199,
+   "brl_launch": null,
+   "brl_now": 1181,
+   "br_note": null,
+   "score": 59,
+   "s": {
+    "tela": 91,
+    "camera": 60,
+    "desempenho": 34,
+    "jogos": 16,
+    "bateria": 62,
+    "conect": 68
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.78,
+    "res": "1272 x 2772",
+    "ppi": 450,
+    "hz": 120,
+    "nits": null,
+    "nits_test": null,
+    "prot": "Corning Gorilla Glass 7i"
+   },
+   "body": {
+    "h": 164.18,
+    "w": 77.37,
+    "t": 7.33,
+    "g": 182,
+    "ip": "IP64",
+    "back": "Eco-leather",
+    "frame": "Plastic",
+    "colors": [
+     "Gray",
+     "Green"
+    ]
+   },
+   "chip": "Dimensity 6400",
+   "nm": 6,
+   "gb6s": 780,
+   "gb6m": 1999,
+   "antutu": null,
+   "ram": [
+    4,
+    8
+   ],
+   "rom": [
+    128,
+    256
+   ],
+   "rom_type": "UFS 2.2",
+   "sd": false,
+   "os": "Android 16",
+   "ui": null,
+   "os_years": 2,
+   "sec_years": null,
+   "bat": {
+    "mah": 5200,
+    "w": 30,
+    "wl": 0,
+    "rev": false,
+    "p30": null,
+    "full": null,
+    "life": null,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8",
+     "8 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.95\"",
+    "ois": false,
+    "zoom": null,
+    "video": "4K30",
+    "selfie": 32,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 5",
+    "bt": "5.4",
+    "nfc": "region",
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/motorola-moto-g67"
+  },
+  {
+   "id": "motorola-moto-g37",
+   "brand": "Motorola",
+   "model": "Moto G37",
+   "name": "Moto G37",
+   "tier": "basico",
+   "fold": null,
+   "released": "2026-05",
+   "usd": null,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 54,
+   "s": {
+    "tela": 74,
+    "camera": 53,
+    "desempenho": 28,
+    "jogos": 12,
+    "bateria": 68,
+    "conect": 67
+   },
+   "disp": {
+    "type": "IPS LCD",
+    "inch": 6.67,
+    "res": "720 x 1604",
+    "ppi": 264,
+    "hz": 120,
+    "nits": 1050,
+    "nits_test": 868,
+    "prot": "Corning Gorilla Glass 7i"
+   },
+   "body": {
+    "h": 166.2,
+    "w": 76.5,
+    "t": 7.8,
+    "g": 191,
+    "ip": "IP64",
+    "back": "Eco-leather",
+    "frame": "Plastic",
+    "colors": [
+     "Blue",
+     "Green",
+     "Red"
+    ]
+   },
+   "chip": "Dimensity 6300",
+   "nm": 6,
+   "gb6s": 791,
+   "gb6m": 1307,
+   "antutu": 596993,
+   "ram": [
+    4
+   ],
+   "rom": [
+    64,
+    128,
+    256
+   ],
+   "rom_type": "UFS 2.2",
+   "sd": true,
+   "os": "Android 16",
+   "ui": null,
+   "os_years": null,
+   "sec_years": null,
+   "bat": {
+    "mah": 5200,
+    "w": 20,
+    "wl": 0,
+    "rev": true,
+    "p30": null,
+    "full": null,
+    "life": null,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8"
+    ],
+    "kinds": [
+     "main"
+    ],
+    "main": 50,
+    "sensor": null,
+    "ois": false,
+    "zoom": null,
+    "video": "1080p30",
+    "selfie": 8,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 5",
+    "bt": "5.4",
+    "nfc": "region",
+    "esim": true,
+    "g5": true,
+    "jack": true,
+    "stereo": true,
+    "db": 89.8
+   },
+   "src": "https://nanoreview.net/en/phone/motorola-moto-g37"
+  },
+  {
+   "id": "motorola-moto-g17",
+   "brand": "Motorola",
+   "model": "Moto G17",
+   "name": "Moto G17",
+   "tier": "basico",
+   "fold": null,
+   "released": "2026-01",
+   "usd": 149,
+   "brl_launch": 1499,
+   "brl_now": 999,
+   "br_note": null,
+   "score": 53,
+   "s": {
+    "tela": 80,
+    "camera": 55,
+    "desempenho": 19,
+    "jogos": 10,
+    "bateria": 63,
+    "conect": 65
+   },
+   "disp": {
+    "type": "IPS LCD",
+    "inch": 6.72,
+    "res": "1080 x 2400",
+    "ppi": 392,
+    "hz": 120,
+    "nits": 1050,
+    "nits_test": null,
+    "prot": "Corning Gorilla Glass 3"
+   },
+   "body": {
+    "h": 165.7,
+    "w": 76,
+    "t": 8.2,
+    "g": 195,
+    "ip": "IP64",
+    "back": "Plastic",
+    "frame": "Plastic",
+    "colors": [
+     "Blue"
+    ]
+   },
+   "chip": "Helio G81 Extreme",
+   "nm": 12,
+   "gb6s": 401,
+   "gb6m": 1298,
+   "antutu": 335081,
+   "ram": [
+    4
+   ],
+   "rom": [
+    128,
+    256
+   ],
+   "rom_type": null,
+   "sd": true,
+   "os": "Android 15",
+   "ui": null,
+   "os_years": null,
+   "sec_years": null,
+   "bat": {
+    "mah": 5200,
+    "w": 18,
+    "wl": 0,
+    "rev": false,
+    "p30": 50,
+    "full": 106,
+    "life": null,
+    "charger": null
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.9",
+     "5 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/2.0\"",
+    "ois": false,
+    "zoom": null,
+    "video": "1080p30",
+    "selfie": 32,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 5",
+    "bt": "5.4",
+    "nfc": null,
+    "esim": false,
+    "g5": false,
+    "jack": true,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/motorola-moto-g17"
+  },
+  {
+   "id": "xiaomi-18-pro-max",
+   "brand": "Xiaomi",
+   "model": "18 Pro Max",
+   "name": "Xiaomi 18 Pro Max",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-09",
+   "usd": 1299,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 94,
+   "s": {
+    "tela": 91,
+    "camera": 94,
+    "desempenho": 98,
+    "jogos": 99,
+    "bateria": 100,
+    "conect": 88
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.9,
+    "res": "1208 x 2624",
+    "ppi": 418,
+    "hz": 120,
+    "nits": 4000,
+    "nits_test": null,
+    "prot": "Dragon Crystal Glass 3"
+   },
+   "body": {
+    "h": 163.39,
+    "w": 77.6,
+    "t": 8.39,
+    "g": 235,
+    "ip": "IP68",
+    "back": "Plastic",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Black",
+     "Blue",
+     "Red",
+     "Pink"
+    ]
+   },
+   "chip": "Snapdragon 8 Elite Extreme Gen 6",
+   "nm": 2,
+   "gb6s": 3762,
+   "gb6m": 11459,
+   "antutu": 5001234,
+   "ram": [
+    12,
+    16
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 17",
+   "ui": "HyperOS 4",
+   "os_years": 6,
+   "sec_years": 6,
+   "bat": {
+    "mah": 8500,
+    "w": 100,
+    "wl": 50,
+    "rev": true,
+    "p30": null,
+    "full": null,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "200 MP principal f/1.7 OIS",
+     "200 MP tele f/2.4 OIS",
+     "50 MP ultra-angular f/2.4"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 200,
+    "sensor": "1/1.28\"",
+    "ois": true,
+    "zoom": 3.2,
+    "video": "8K30",
+    "selfie": 50,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": false,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/xiaomi-18-pro-max"
+  },
+  {
+   "id": "xiaomi-18-pro",
+   "brand": "Xiaomi",
+   "model": "18 Pro",
+   "name": "Xiaomi 18 Pro",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-09",
+   "usd": 999,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 93,
+   "s": {
+    "tela": 91,
+    "camera": 94,
+    "desempenho": 98,
+    "jogos": 98,
+    "bateria": 93,
+    "conect": 88
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.4,
+    "res": "1120 x 2436",
+    "ppi": 419,
+    "hz": 120,
+    "nits": 4000,
+    "nits_test": null,
+    "prot": "Dragon Crystal Glass 3"
+   },
+   "body": {
+    "h": 151.8,
+    "w": 72,
+    "t": 8.46,
+    "g": 203,
+    "ip": "IP68",
+    "back": "Plastic",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Black",
+     "Blue",
+     "Red",
+     "Pink"
+    ]
+   },
+   "chip": "Snapdragon 8 Elite Gen 6",
+   "nm": 2,
+   "gb6s": 3866,
+   "gb6m": 11140,
+   "antutu": 4888150,
+   "ram": [
+    12,
+    16
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 17",
+   "ui": "HyperOS 4",
+   "os_years": 6,
+   "sec_years": 6,
+   "bat": {
+    "mah": 7000,
+    "w": 100,
+    "wl": 50,
+    "rev": true,
+    "p30": null,
+    "full": null,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "200 MP principal f/1.7 OIS",
+     "200 MP tele f/2.4 OIS",
+     "50 MP ultra-angular f/2.4"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 200,
+    "sensor": "1/1.28\"",
+    "ois": true,
+    "zoom": 3.2,
+    "video": "8K30",
+    "selfie": 50,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": false,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/xiaomi-18-pro"
+  },
+  {
+   "id": "xiaomi-17-ultra",
+   "brand": "Xiaomi",
+   "model": "17 Ultra",
+   "name": "Xiaomi 17 Ultra",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-03",
+   "usd": 1199,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 92,
+   "s": {
+    "tela": 89,
+    "camera": 96,
+    "desempenho": 97,
+    "jogos": 90,
+    "bateria": 93,
+    "conect": 92
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.9,
+    "res": "1200 x 2608",
+    "ppi": 416,
+    "hz": 120,
+    "nits": 3500,
+    "nits_test": 3674,
+    "prot": "Xiaomi Shield Glass 3.0"
+   },
+   "body": {
+    "h": 162.9,
+    "w": 77.6,
+    "t": 8.29,
+    "g": 218.4,
+    "ip": "IP68",
+    "back": null,
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Black",
+     "Green",
+     "Purple"
+    ]
+   },
+   "chip": "Snapdragon 8 Elite Gen 5",
+   "nm": 3,
+   "gb6s": 3711,
+   "gb6m": 11259,
+   "antutu": 3667711,
+   "ram": [
+    12,
+    16
+   ],
+   "rom": [
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "HyperOS 3",
+   "os_years": 6,
+   "sec_years": 6,
+   "bat": {
+    "mah": 6000,
+    "w": 90,
+    "wl": 50,
+    "rev": true,
+    "p30": 72,
+    "full": 50,
+    "life": 33.38,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.67 OIS",
+     "200 MP tele f/2.4-3.0 OIS",
+     "50 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1\"",
+    "ois": true,
+    "zoom": 4.3,
+    "video": "8K30",
+    "selfie": 50,
+    "dxo": 166
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 84.7
+   },
+   "src": "https://nanoreview.net/en/phone/xiaomi-17-ultra"
+  },
+  {
+   "id": "xiaomi-17",
+   "brand": "Xiaomi",
+   "model": "17",
+   "name": "Xiaomi 17",
+   "tier": "topo",
+   "fold": null,
+   "released": "2025-09",
+   "usd": 999,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 90,
+   "s": {
+    "tela": 91,
+    "camera": 86,
+    "desempenho": 96,
+    "jogos": 89,
+    "bateria": 96,
+    "conect": 92
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.3,
+    "res": "1220 x 2656",
+    "ppi": 464,
+    "hz": 120,
+    "nits": 3500,
+    "nits_test": 3495,
+    "prot": "Xiaomi Shield Glass"
+   },
+   "body": {
+    "h": 151.1,
+    "w": 71.8,
+    "t": 8.06,
+    "g": 191,
+    "ip": "IP68",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Black",
+     "Blue",
+     "Green",
+     "Pink",
+     "Purple"
+    ]
+   },
+   "chip": "Snapdragon 8 Elite Gen 5",
+   "nm": 3,
+   "gb6s": 3583,
+   "gb6m": 10772,
+   "antutu": 3404616,
+   "ram": [
+    12,
+    16
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "HyperOS 3",
+   "os_years": 6,
+   "sec_years": 6,
+   "bat": {
+    "mah": 6330,
+    "w": 100,
+    "wl": 50,
+    "rev": true,
+    "p30": 71,
+    "full": 46,
+    "life": 33.97,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.7 OIS",
+     "50 MP tele f/2.0 OIS",
+     "50 MP ultra-angular f/2.4"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.31\"",
+    "ois": true,
+    "zoom": 2.6,
+    "video": "8K30",
+    "selfie": 50,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 86.2
+   },
+   "src": "https://nanoreview.net/en/phone/xiaomi-17"
+  },
+  {
+   "id": "xiaomi-17t-pro",
+   "brand": "Xiaomi",
+   "model": "17T Pro",
+   "name": "Xiaomi 17T Pro",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-05",
+   "usd": 899,
+   "brl_launch": null,
+   "brl_now": 4967,
+   "br_note": null,
+   "score": 92,
+   "s": {
+    "tela": 92,
+    "camera": 88,
+    "desempenho": 96,
+    "jogos": 93,
+    "bateria": 100,
+    "conect": 87
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.83,
+    "res": "1280 x 2772",
+    "ppi": 447,
+    "hz": 144,
+    "nits": 3500,
+    "nits_test": 3523,
+    "prot": "Corning Gorilla Glass 7i"
+   },
+   "body": {
+    "h": 162.2,
+    "w": 77.5,
+    "t": 8.25,
+    "g": 219,
+    "ip": "IP68",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "Black",
+     "Blue",
+     "Purple"
+    ]
+   },
+   "chip": "Dimensity 9500",
+   "nm": 3,
+   "gb6s": 3334,
+   "gb6m": 10348,
+   "antutu": 3323591,
+   "ram": [
+    12
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "HyperOS 3",
+   "os_years": 5,
+   "sec_years": 6,
+   "bat": {
+    "mah": 7000,
+    "w": 100,
+    "wl": 50,
+    "rev": true,
+    "p30": 72,
+    "full": 44,
+    "life": 36.7,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.7 OIS",
+     "50 MP tele f/3.0 OIS",
+     "12 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.31\"",
+    "ois": true,
+    "zoom": 5,
+    "video": "8K30",
+    "selfie": 32,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 83.6
+   },
+   "src": "https://nanoreview.net/en/phone/xiaomi-17t-pro"
+  },
+  {
+   "id": "xiaomi-17t",
+   "brand": "Xiaomi",
+   "model": "17T",
+   "name": "Xiaomi 17T",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-05",
+   "usd": 749,
+   "brl_launch": 8700,
+   "brl_now": 3587,
+   "br_note": "Preço oficial é o da versão de 512 GB; o menor preço atual vem de marketplaces.",
+   "score": 82,
+   "s": {
+    "tela": 94,
+    "camera": 85,
+    "desempenho": 75,
+    "jogos": 64,
+    "bateria": 85,
+    "conect": 77
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.59,
+    "res": "1268 x 2756",
+    "ppi": 460,
+    "hz": 120,
+    "nits": 3500,
+    "nits_test": 3367,
+    "prot": "Corning Gorilla Glass 7i"
+   },
+   "body": {
+    "h": 157.6,
+    "w": 75.2,
+    "t": 8.17,
+    "g": 200,
+    "ip": "IP68",
+    "back": "Plastic",
+    "frame": "Plastic",
+    "colors": [
+     "White",
+     "Black",
+     "Blue",
+     "Purple"
+    ]
+   },
+   "chip": "Dimensity 8500 Ultra",
+   "nm": 4,
+   "gb6s": 1704,
+   "gb6m": 6686,
+   "antutu": 2173332,
+   "ram": [
+    12
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "HyperOS 3",
+   "os_years": 5,
+   "sec_years": 6,
+   "bat": {
+    "mah": 6500,
+    "w": 67,
+    "wl": 0,
+    "rev": true,
+    "p30": 55,
+    "full": 60,
+    "life": 28.83,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.7 OIS",
+     "50 MP tele f/3.0 OIS",
+     "12 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.55\"",
+    "ois": true,
+    "zoom": 5,
+    "video": "4K60",
+    "selfie": 32,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 6E",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/xiaomi-17t"
+  },
+  {
+   "id": "xiaomi-redmi-note-17-pro",
+   "brand": "Xiaomi",
+   "model": "Redmi Note 17 Pro",
+   "name": "Xiaomi Redmi Note 17 Pro",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-07",
+   "usd": 240,
+   "brl_launch": null,
+   "brl_now": 2391,
+   "br_note": null,
+   "score": 70,
+   "s": {
+    "tela": 91,
+    "camera": 69,
+    "desempenho": 43,
+    "jogos": 30,
+    "bateria": 100,
+    "conect": 63
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.83,
+    "res": "1280 x 2772",
+    "ppi": 447,
+    "hz": 120,
+    "nits": 3500,
+    "nits_test": 1068,
+    "prot": "Gorilla Glass Victus 2"
+   },
+   "body": {
+    "h": 163.45,
+    "w": 78.27,
+    "t": 8.46,
+    "g": 226,
+    "ip": "IP69",
+    "back": "Plastic",
+    "frame": "Plastic",
+    "colors": [
+     "White",
+     "Black",
+     "Blue",
+     "Purple"
+    ]
+   },
+   "chip": "Snapdragon 6s Gen 4",
+   "nm": 4,
+   "gb6s": 1011,
+   "gb6m": 2924,
+   "antutu": 876983,
+   "ram": [
+    8,
+    12
+   ],
+   "rom": [
+    128,
+    256,
+    512
+   ],
+   "rom_type": "UFS 3.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "HyperOS 3",
+   "os_years": 2,
+   "sec_years": 4,
+   "bat": {
+    "mah": 9000,
+    "w": 67,
+    "wl": 0,
+    "rev": true,
+    "p30": null,
+    "full": null,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8"
+    ],
+    "kinds": [
+     "main"
+    ],
+    "main": 50,
+    "sensor": "1/2.76\"",
+    "ois": false,
+    "zoom": null,
+    "video": "1080p30",
+    "selfie": 8,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 5",
+    "bt": "5.1",
+    "nfc": true,
+    "esim": false,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 86.7
+   },
+   "src": "https://nanoreview.net/en/phone/xiaomi-redmi-note-17-pro"
+  },
+  {
+   "id": "xiaomi-redmi-note-17",
+   "brand": "Xiaomi",
+   "model": "Redmi Note 17",
+   "name": "Xiaomi Redmi Note 17",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-07",
+   "usd": 190,
+   "brl_launch": null,
+   "brl_now": 1563,
+   "br_note": null,
+   "score": 64,
+   "s": {
+    "tela": 87,
+    "camera": 59,
+    "desempenho": 33,
+    "jogos": 17,
+    "bateria": 99,
+    "conect": 63
+   },
+   "disp": {
+    "type": "OLED",
+    "inch": 7,
+    "res": "1080 x 2396",
+    "ppi": 375,
+    "hz": 120,
+    "nits": 1800,
+    "nits_test": null,
+    "prot": "Corning Gorilla Glass 7i"
+   },
+   "body": {
+    "h": 169.7,
+    "w": 79.14,
+    "t": 8.26,
+    "g": 225,
+    "ip": "IP65",
+    "back": "Plastic",
+    "frame": "Plastic",
+    "colors": [
+     "Black",
+     "Blue",
+     "Purple"
+    ]
+   },
+   "chip": "Snapdragon 4 Gen 4",
+   "nm": 4,
+   "gb6s": 900,
+   "gb6m": 2178,
+   "antutu": 593849,
+   "ram": [
+    6,
+    8
+   ],
+   "rom": [
+    128,
+    256
+   ],
+   "rom_type": "UFS 2.2",
+   "sd": true,
+   "os": "Android 16",
+   "ui": "HyperOS 3",
+   "os_years": 2,
+   "sec_years": 4,
+   "bat": {
+    "mah": 8000,
+    "w": 45,
+    "wl": 0,
+    "rev": true,
+    "p30": null,
+    "full": null,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8"
+    ],
+    "kinds": [
+     "main"
+    ],
+    "main": 50,
+    "sensor": "1/2.76\"",
+    "ois": false,
+    "zoom": null,
+    "video": "1080p30",
+    "selfie": 8,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 5",
+    "bt": "5.1",
+    "nfc": true,
+    "esim": false,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/xiaomi-redmi-note-17"
+  },
+  {
+   "id": "xiaomi-redmi-note-15-pro-5g",
+   "brand": "Xiaomi",
+   "model": "Redmi Note 15 Pro 5G",
+   "name": "Xiaomi Redmi Note 15 Pro 5G",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-01",
+   "usd": 349,
+   "brl_launch": null,
+   "brl_now": 1931,
+   "br_note": null,
+   "score": 69,
+   "s": {
+    "tela": 91,
+    "camera": 76,
+    "desempenho": 43,
+    "jogos": 22,
+    "bateria": 82,
+    "conect": 73
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.83,
+    "res": "1280 x 2772",
+    "ppi": 447,
+    "hz": 120,
+    "nits": 3200,
+    "nits_test": 3365,
+    "prot": "Corning Gorilla Glass Victus 2"
+   },
+   "body": {
+    "h": 163.61,
+    "w": 78.09,
+    "t": 7.96,
+    "g": 210,
+    "ip": "IP69",
+    "back": "Plastic",
+    "frame": "Plastic",
+    "colors": [
+     "Black",
+     "Gray",
+     "Blue",
+     "Purple"
+    ]
+   },
+   "chip": "Dimensity 7400 Ultra",
+   "nm": 4,
+   "gb6s": 1042,
+   "gb6m": 2950,
+   "antutu": 927175,
+   "ram": [
+    8,
+    12
+   ],
+   "rom": [
+    128,
+    256,
+    512
+   ],
+   "rom_type": "UFS 2.2",
+   "sd": false,
+   "os": "Android 15",
+   "ui": "HyperOS 3",
+   "os_years": 4,
+   "sec_years": 6,
+   "bat": {
+    "mah": 6580,
+    "w": 45,
+    "wl": 0,
+    "rev": true,
+    "p30": 47,
+    "full": 73,
+    "life": 27.2,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "200 MP principal f/1.7 OIS",
+     "8 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 200,
+    "sensor": "1/1.4\"",
+    "ois": true,
+    "zoom": null,
+    "video": "4K30",
+    "selfie": 20,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 6",
+    "bt": "5.4",
+    "nfc": "region",
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 87.8
+   },
+   "src": "https://nanoreview.net/en/phone/xiaomi-redmi-note-15-pro-5g"
+  },
+  {
+   "id": "xiaomi-redmi-17-5g",
+   "brand": "Xiaomi",
+   "model": "Redmi 17 5G",
+   "name": "Xiaomi Redmi 17 5G",
+   "tier": "basico",
+   "fold": null,
+   "released": "2026-08",
+   "usd": 190,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 61,
+   "s": {
+    "tela": 72,
+    "camera": 58,
+    "desempenho": 33,
+    "jogos": 19,
+    "bateria": 94,
+    "conect": 63
+   },
+   "disp": {
+    "type": "IPS LCD",
+    "inch": 6.9,
+    "res": "720 x 1600",
+    "ppi": 254,
+    "hz": 120,
+    "nits": 825,
+    "nits_test": null,
+    "prot": "Corning Gorilla Glass 7i"
+   },
+   "body": {
+    "h": 170.12,
+    "w": 78.42,
+    "t": 8.8,
+    "g": 232,
+    "ip": "IP64",
+    "back": "Eco-leather",
+    "frame": "Plastic",
+    "colors": [
+     "Black",
+     "Blue",
+     "Orange"
+    ]
+   },
+   "chip": "Snapdragon 4 Gen 5",
+   "nm": 4,
+   "gb6s": 973,
+   "gb6m": 2241,
+   "antutu": 619773,
+   "ram": [
+    4,
+    6
+   ],
+   "rom": [
+    128,
+    256
+   ],
+   "rom_type": "UFS 2.2",
+   "sd": true,
+   "os": "Android 16",
+   "ui": "HyperOS 3",
+   "os_years": null,
+   "sec_years": null,
+   "bat": {
+    "mah": 7500,
+    "w": 45,
+    "wl": 0,
+    "rev": true,
+    "p30": null,
+    "full": null,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8"
+    ],
+    "kinds": [
+     "main"
+    ],
+    "main": 50,
+    "sensor": "1/3.06\"",
+    "ois": false,
+    "zoom": null,
+    "video": "1080p30",
+    "selfie": 8,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 5",
+    "bt": "5.1",
+    "nfc": null,
+    "esim": false,
+    "g5": true,
+    "jack": true,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/xiaomi-redmi-17-5g"
+  },
+  {
+   "id": "apple-iphone-17",
+   "brand": "Apple",
+   "model": "iPhone 17",
+   "name": "iPhone 17",
+   "tier": "topo",
+   "fold": null,
+   "released": "2025-09",
+   "usd": 799,
+   "brl_launch": 7999,
+   "brl_now": 5598,
+   "br_note": null,
+   "score": 86,
+   "s": {
+    "tela": 89,
+    "camera": 91,
+    "desempenho": 93,
+    "jogos": 88,
+    "bateria": 66,
+    "conect": 86
+   },
+   "disp": {
+    "type": "OLED",
+    "inch": 6.3,
+    "res": "1206 x 2622",
+    "ppi": 460,
+    "hz": 120,
+    "nits": 1600,
+    "nits_test": 1007,
+    "prot": "Ceramic Shield 2"
+   },
+   "body": {
+    "h": 149.6,
+    "w": 71.5,
+    "t": 8,
+    "g": 177,
+    "ip": "IP68",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Black",
+     "Blue",
+     "Green",
+     "Purple"
+    ]
+   },
+   "chip": "A19",
+   "nm": 3,
+   "gb6s": 3736,
+   "gb6m": 9226,
+   "antutu": 2156126,
+   "ram": [
+    8
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "NVMe",
+   "sd": false,
+   "os": "iOS 26",
+   "ui": null,
+   "os_years": 7,
+   "sec_years": 7,
+   "bat": {
+    "mah": 3692,
+    "w": 40,
+    "wl": 25,
+    "rev": true,
+    "p30": 63,
+    "full": 85,
+    "life": 25.53,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "48 MP principal f/1.6 OIS",
+     "48 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 48,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": null,
+    "video": "4K60",
+    "selfie": 18,
+    "dxo": 157
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 81.3
+   },
+   "src": "https://nanoreview.net/en/phone/apple-iphone-17"
+  },
+  {
+   "id": "xiaomi-poco-f9-ultra",
+   "brand": "Poco",
+   "model": "F9 Ultra",
+   "name": "Poco F9 Ultra",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-09",
+   "usd": 729,
+   "brl_launch": null,
+   "brl_now": 6439,
+   "br_note": null,
+   "score": 93,
+   "s": {
+    "tela": 92,
+    "camera": 87,
+    "desempenho": 98,
+    "jogos": 95,
+    "bateria": 100,
+    "conect": 92
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.9,
+    "res": "1200 x 2608",
+    "ppi": 416,
+    "hz": 185,
+    "nits": 10000,
+    "nits_test": 4368,
+    "prot": "Corning Gorilla Glass 7i"
+   },
+   "body": {
+    "h": 163.49,
+    "w": 77.94,
+    "t": 7.94,
+    "g": 235,
+    "ip": "IP68",
+    "back": null,
+    "frame": "Metal",
+    "colors": [
+     "Black",
+     "Red"
+    ]
+   },
+   "chip": "Snapdragon 8 Elite Gen 5",
+   "nm": 3,
+   "gb6s": 3629,
+   "gb6m": 11080,
+   "antutu": 4165108,
+   "ram": [
+    12,
+    16
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "HyperOS 3",
+   "os_years": 4,
+   "sec_years": null,
+   "bat": {
+    "mah": 8050,
+    "w": 100,
+    "wl": 50,
+    "rev": true,
+    "p30": 61,
+    "full": 54,
+    "life": 44.03,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "200 MP principal f/1.7 OIS",
+     "50 MP tele f/3.0 OIS",
+     "50 MP ultra-angular f/2.4"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 200,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": 5,
+    "video": "8K30",
+    "selfie": 32,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": "region",
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 87.8
+   },
+   "src": "https://nanoreview.net/en/phone/xiaomi-poco-f9-ultra"
+  },
+  {
+   "id": "xiaomi-poco-f9-pro",
+   "brand": "Poco",
+   "model": "F9 Pro",
+   "name": "Poco F9 Pro",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-09",
+   "usd": 699,
+   "brl_launch": null,
+   "brl_now": 4967,
+   "br_note": null,
+   "score": 91,
+   "s": {
+    "tela": 92,
+    "camera": 86,
+    "desempenho": 95,
+    "jogos": 81,
+    "bateria": 99,
+    "conect": 90
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.59,
+    "res": "1156 x 2510",
+    "ppi": 419,
+    "hz": 185,
+    "nits": 10000,
+    "nits_test": 4142,
+    "prot": "Corning Gorilla Glass 7i"
+   },
+   "body": {
+    "h": 157.49,
+    "w": 75.25,
+    "t": 8.79,
+    "g": 206,
+    "ip": "IP68",
+    "back": null,
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Black",
+     "Green"
+    ]
+   },
+   "chip": "Snapdragon 8 Elite Gen 5 V Series",
+   "nm": 3,
+   "gb6s": 3377,
+   "gb6m": 10344,
+   "antutu": 3228426,
+   "ram": [
+    12
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "HyperOS 3",
+   "os_years": 4,
+   "sec_years": null,
+   "bat": {
+    "mah": 6330,
+    "w": 100,
+    "wl": 50,
+    "rev": true,
+    "p30": 72,
+    "full": 43,
+    "life": 35.45,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "200 MP principal f/1.7 OIS",
+     "50 MP tele f/2.0 OIS",
+     "8 MP ultra-angular f/2.3"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 200,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": 2.5,
+    "video": "8K30",
+    "selfie": 32,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": "region",
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/xiaomi-poco-f9-pro"
+  },
+  {
+   "id": "xiaomi-poco-x8-pro-max",
+   "brand": "Poco",
+   "model": "X8 Pro Max",
+   "name": "Poco X8 Pro Max",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-03",
+   "usd": 429,
+   "brl_launch": null,
+   "brl_now": 3149,
+   "br_note": null,
+   "score": 86,
+   "s": {
+    "tela": 92,
+    "camera": 73,
+    "desempenho": 91,
+    "jogos": 83,
+    "bateria": 100,
+    "conect": 81
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.83,
+    "res": "1280 x 2772",
+    "ppi": 447,
+    "hz": 120,
+    "nits": 3500,
+    "nits_test": 3559,
+    "prot": "Corning Gorilla Glass 7i"
+   },
+   "body": {
+    "h": 162.9,
+    "w": 77.9,
+    "t": 8.2,
+    "g": 218,
+    "ip": "IP68",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Black",
+     "Blue"
+    ]
+   },
+   "chip": "Dimensity 9500s",
+   "nm": 3,
+   "gb6s": 2725,
+   "gb6m": 8932,
+   "antutu": 3032039,
+   "ram": [
+    12
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "HyperOS 3",
+   "os_years": 5,
+   "sec_years": 6,
+   "bat": {
+    "mah": 8500,
+    "w": 100,
+    "wl": 0,
+    "rev": true,
+    "p30": 65,
+    "full": 52,
+    "life": 41.43,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.5 OIS",
+     "8 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.95\"",
+    "ois": true,
+    "zoom": null,
+    "video": "4K60",
+    "selfie": 20,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": "region",
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/xiaomi-poco-x8-pro-max"
+  },
+  {
+   "id": "xiaomi-poco-x8-pro",
+   "brand": "Poco",
+   "model": "X8 Pro",
+   "name": "Poco X8 Pro",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-03",
+   "usd": 329,
+   "brl_launch": null,
+   "brl_now": 2349,
+   "br_note": null,
+   "score": 77,
+   "s": {
+    "tela": 93,
+    "camera": 72,
+    "desempenho": 71,
+    "jogos": 61,
+    "bateria": 83,
+    "conect": 73
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.59,
+    "res": "1268 x 2756",
+    "ppi": 460,
+    "hz": 120,
+    "nits": 3500,
+    "nits_test": 3638,
+    "prot": "Corning Gorilla Glass 7i"
+   },
+   "body": {
+    "h": 157.53,
+    "w": 75.19,
+    "t": 8.38,
+    "g": 201.5,
+    "ip": "IP68",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Black",
+     "Green"
+    ]
+   },
+   "chip": "Dimensity 8500 Ultra",
+   "nm": 4,
+   "gb6s": 1707,
+   "gb6m": 6611,
+   "antutu": 2085754,
+   "ram": [
+    8,
+    12
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "HyperOS 3",
+   "os_years": 5,
+   "sec_years": 6,
+   "bat": {
+    "mah": 6500,
+    "w": 100,
+    "wl": 0,
+    "rev": true,
+    "p30": 75,
+    "full": 41,
+    "life": 28.18,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.5 OIS",
+     "8 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.95\"",
+    "ois": true,
+    "zoom": null,
+    "video": "4K60",
+    "selfie": 20,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 6",
+    "bt": "6.0",
+    "nfc": "region",
+    "esim": false,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 90.6
+   },
+   "src": "https://nanoreview.net/en/phone/xiaomi-poco-x8-pro"
+  },
+  {
+   "id": "xiaomi-poco-x8",
+   "brand": "Poco",
+   "model": "X8",
+   "name": "Poco X8",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-09",
+   "usd": 399,
+   "brl_launch": null,
+   "brl_now": 2023,
+   "br_note": null,
+   "score": 69,
+   "s": {
+    "tela": 93,
+    "camera": 68,
+    "desempenho": 41,
+    "jogos": 23,
+    "bateria": 97,
+    "conect": 66
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.83,
+    "res": "1280 x 2772",
+    "ppi": 447,
+    "hz": 120,
+    "nits": 1800,
+    "nits_test": null,
+    "prot": "Gorilla Glass Victus 2"
+   },
+   "body": {
+    "h": 163.45,
+    "w": 78.27,
+    "t": 8.6,
+    "g": 223,
+    "ip": "IP69",
+    "back": "Plastic",
+    "frame": "Plastic",
+    "colors": [
+     "White",
+     "Black",
+     "Orange",
+     "Purple"
+    ]
+   },
+   "chip": "Snapdragon 6s Gen 4",
+   "nm": 4,
+   "gb6s": 1005,
+   "gb6m": 2871,
+   "antutu": 832323,
+   "ram": [
+    6,
+    8,
+    12
+   ],
+   "rom": [
+    128,
+    256
+   ],
+   "rom_type": "UFS 3.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "HyperOS 3",
+   "os_years": null,
+   "sec_years": null,
+   "bat": {
+    "mah": 8340,
+    "w": 67,
+    "wl": 0,
+    "rev": true,
+    "p30": null,
+    "full": null,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS"
+    ],
+    "kinds": [
+     "main"
+    ],
+    "main": 50,
+    "sensor": "1/2.76\"",
+    "ois": true,
+    "zoom": null,
+    "video": "1080p30",
+    "selfie": 16,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 5",
+    "bt": "5.1",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/xiaomi-poco-x8"
+  },
+  {
+   "id": "xiaomi-poco-m8-pro-5g",
+   "brand": "Poco",
+   "model": "M8 Pro 5G",
+   "name": "Poco M8 Pro 5G",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-01",
+   "usd": 299,
+   "brl_launch": null,
+   "brl_now": 1747,
+   "br_note": null,
+   "score": 69,
+   "s": {
+    "tela": 91,
+    "camera": 70,
+    "desempenho": 46,
+    "jogos": 28,
+    "bateria": 86,
+    "conect": 69
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.83,
+    "res": "1280 x 2772",
+    "ppi": 447,
+    "hz": 120,
+    "nits": 3200,
+    "nits_test": 3037,
+    "prot": "Gorilla Glass Victus 2"
+   },
+   "body": {
+    "h": 163.34,
+    "w": 78.31,
+    "t": 8.31,
+    "g": 205.9,
+    "ip": "IP69",
+    "back": "Plastic",
+    "frame": "Metal",
+    "colors": [
+     "Black",
+     "Silver",
+     "Green"
+    ]
+   },
+   "chip": "Snapdragon 7s Gen 4",
+   "nm": 4,
+   "gb6s": 1223,
+   "gb6m": 3168,
+   "antutu": 1041898,
+   "ram": [
+    8,
+    12
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "UFS 2.2",
+   "sd": false,
+   "os": "Android 15",
+   "ui": "HyperOS 3",
+   "os_years": 5,
+   "sec_years": null,
+   "bat": {
+    "mah": 6500,
+    "w": 100,
+    "wl": 0,
+    "rev": true,
+    "p30": 89,
+    "full": 47,
+    "life": 29.75,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.6 OIS",
+     "8 MP ultra-angular f/2.4"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.55\"",
+    "ois": true,
+    "zoom": null,
+    "video": "4K30",
+    "selfie": 32,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 6E",
+    "bt": "5.4",
+    "nfc": null,
+    "esim": false,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 94.3
+   },
+   "src": "https://nanoreview.net/en/phone/xiaomi-poco-m8-pro-5g"
+  },
+  {
+   "id": "xiaomi-poco-c85-5g",
+   "brand": "Poco",
+   "model": "C85 5G",
+   "name": "Poco C85 5G",
+   "tier": "basico",
+   "fold": null,
+   "released": "2025-12",
+   "usd": 140,
+   "brl_launch": null,
+   "brl_now": 1080,
+   "br_note": null,
+   "score": 55,
+   "s": {
+    "tela": 70,
+    "camera": 54,
+    "desempenho": 27,
+    "jogos": 13,
+    "bateria": 82,
+    "conect": 67
+   },
+   "disp": {
+    "type": "IPS LCD",
+    "inch": 6.9,
+    "res": "720 x 1600",
+    "ppi": 254,
+    "hz": 120,
+    "nits": 810,
+    "nits_test": null,
+    "prot": "Tempered glass"
+   },
+   "body": {
+    "h": 173.16,
+    "w": 81.07,
+    "t": 8.2,
+    "g": 211,
+    "ip": "IP64",
+    "back": "Plastic",
+    "frame": "Plastic",
+    "colors": [
+     "Black",
+     "Green",
+     "Purple"
+    ]
+   },
+   "chip": "Dimensity 6300",
+   "nm": 6,
+   "gb6s": 471,
+   "gb6m": 1575,
+   "antutu": 602813,
+   "ram": [
+    4,
+    6,
+    8
+   ],
+   "rom": [
+    128,
+    256
+   ],
+   "rom_type": "UFS 2.2",
+   "sd": true,
+   "os": "Android 15",
+   "ui": "HyperOS 2",
+   "os_years": 2,
+   "sec_years": 2,
+   "bat": {
+    "mah": 6000,
+    "w": 33,
+    "wl": 0,
+    "rev": true,
+    "p30": null,
+    "full": 97,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8"
+    ],
+    "kinds": [
+     "main"
+    ],
+    "main": 50,
+    "sensor": "1/2.76\"",
+    "ois": false,
+    "zoom": null,
+    "video": "1080p30",
+    "selfie": 8,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 5",
+    "bt": "5.4",
+    "nfc": "region",
+    "esim": false,
+    "g5": true,
+    "jack": true,
+    "stereo": false,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/xiaomi-poco-c85-5g"
+  },
+  {
+   "id": "realme-gt-8-pro-china",
+   "brand": "Realme",
+   "model": "GT 8 Pro",
+   "name": "Realme GT 8 Pro",
+   "tier": "topo",
+   "fold": null,
+   "released": "2025-11",
+   "usd": 999,
+   "brl_launch": null,
+   "brl_now": 5611,
+   "br_note": null,
+   "score": 92,
+   "s": {
+    "tela": 95,
+    "camera": 86,
+    "desempenho": 98,
+    "jogos": 97,
+    "bateria": 100,
+    "conect": 87
+   },
+   "disp": {
+    "type": "OLED",
+    "inch": 6.79,
+    "res": "1440 x 3136",
+    "ppi": 508,
+    "hz": 144,
+    "nits": 7000,
+    "nits_test": 4000,
+    "prot": null
+   },
+   "body": {
+    "h": 161.8,
+    "w": 76.87,
+    "t": 8.2,
+    "g": 214,
+    "ip": "IP69",
+    "back": "Plastic",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Blue",
+     "Green"
+    ]
+   },
+   "chip": "Snapdragon 8 Elite Gen 5",
+   "nm": 3,
+   "gb6s": 3711,
+   "gb6m": 11175,
+   "antutu": 4024736,
+   "ram": [
+    12,
+    16
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "Realme UI 7.0",
+   "os_years": 4,
+   "sec_years": 4,
+   "bat": {
+    "mah": 7000,
+    "w": 120,
+    "wl": 50,
+    "rev": true,
+    "p30": null,
+    "full": 40,
+    "life": 37.22,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.9 OIS",
+     "200 MP tele f/2.6 OIS",
+     "50 MP ultra-angular f/2.0"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": 3,
+    "video": "8K30",
+    "selfie": 32,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/realme-gt-8-pro-china"
+  },
+  {
+   "id": "realme-16-pro-plus",
+   "brand": "Realme",
+   "model": "16 Pro+",
+   "name": "Realme 16 Pro+",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-01",
+   "usd": 445,
+   "brl_launch": null,
+   "brl_now": 3599,
+   "br_note": null,
+   "score": 76,
+   "s": {
+    "tela": 92,
+    "camera": 79,
+    "desempenho": 56,
+    "jogos": 35,
+    "bateria": 98,
+    "conect": 69
+   },
+   "disp": {
+    "type": "OLED",
+    "inch": 6.8,
+    "res": "1280 x 2800",
+    "ppi": 453,
+    "hz": 144,
+    "nits": 6500,
+    "nits_test": 1974,
+    "prot": "Corning Gorilla Glass 7i"
+   },
+   "body": {
+    "h": 162.5,
+    "w": 76.3,
+    "t": 8.1,
+    "g": 198,
+    "ip": "IP69",
+    "back": "Eco-leather",
+    "frame": "Metal",
+    "colors": [
+     "Gold",
+     "Gray",
+     "Pink"
+    ]
+   },
+   "chip": "Snapdragon 7 Gen 4",
+   "nm": 4,
+   "gb6s": 1374,
+   "gb6m": 4363,
+   "antutu": 1392392,
+   "ram": [
+    8,
+    12
+   ],
+   "rom": [
+    128,
+    256,
+    512
+   ],
+   "rom_type": "UFS 3.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "Realme UI 7.0",
+   "os_years": 5,
+   "sec_years": 5,
+   "bat": {
+    "mah": 7000,
+    "w": 80,
+    "wl": 0,
+    "rev": true,
+    "p30": 62,
+    "full": 64,
+    "life": 34.95,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "200 MP principal f/1.9 OIS",
+     "50 MP tele f/2.8 OIS",
+     "8 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 200,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": 3.5,
+    "video": "4K60",
+    "selfie": 50,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 6",
+    "bt": "5.4",
+    "nfc": false,
+    "esim": false,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/realme-16-pro-plus"
+  },
+  {
+   "id": "realme-16-pro",
+   "brand": "Realme",
+   "model": "16 Pro",
+   "name": "Realme 16 Pro",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-01",
+   "usd": 499,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 70,
+   "s": {
+    "tela": 91,
+    "camera": 76,
+    "desempenho": 43,
+    "jogos": 20,
+    "bateria": 92,
+    "conect": 73
+   },
+   "disp": {
+    "type": "OLED",
+    "inch": 6.78,
+    "res": "1272 x 2772",
+    "ppi": 450,
+    "hz": 144,
+    "nits": 6500,
+    "nits_test": null,
+    "prot": "AGC DT-Star D+"
+   },
+   "body": {
+    "h": 162.6,
+    "w": 77.6,
+    "t": 7.8,
+    "g": 192,
+    "ip": "IP69",
+    "back": "Eco-leather",
+    "frame": "Plastic",
+    "colors": [
+     "Gold",
+     "Gray",
+     "Purple"
+    ]
+   },
+   "chip": "Dimensity 7300 Max",
+   "nm": 4,
+   "gb6s": 998,
+   "gb6m": 2881,
+   "antutu": 919158,
+   "ram": [
+    8,
+    12
+   ],
+   "rom": [
+    128,
+    256,
+    512
+   ],
+   "rom_type": "UFS 3.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "Realme UI 7.0",
+   "os_years": 5,
+   "sec_years": 6,
+   "bat": {
+    "mah": 6500,
+    "w": 80,
+    "wl": 0,
+    "rev": false,
+    "p30": null,
+    "full": 65,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "200 MP principal f/1.9 OIS",
+     "8 MP ultra-angular"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 200,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": null,
+    "video": "4K30",
+    "selfie": 50,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 6",
+    "bt": "5.4",
+    "nfc": "region",
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/realme-16-pro"
+  },
+  {
+   "id": "realme-16",
+   "brand": "Realme",
+   "model": "16",
+   "name": "Realme 16",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-02",
+   "usd": null,
+   "brl_launch": null,
+   "brl_now": 2999,
+   "br_note": null,
+   "score": 65,
+   "s": {
+    "tela": 88,
+    "camera": 69,
+    "desempenho": 34,
+    "jogos": 13,
+    "bateria": 88,
+    "conect": 70
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.57,
+    "res": "1080 x 2372",
+    "ppi": 397,
+    "hz": 120,
+    "nits": 4500,
+    "nits_test": null,
+    "prot": "AGC DT-Star D+"
+   },
+   "body": {
+    "h": 158.3,
+    "w": 75.1,
+    "t": 8.1,
+    "g": 183,
+    "ip": "IP69",
+    "back": "Plastic",
+    "frame": "Plastic",
+    "colors": [
+     "White",
+     "Black"
+    ]
+   },
+   "chip": "Dimensity 6400 Turbo",
+   "nm": 6,
+   "gb6s": 803,
+   "gb6m": 2047,
+   "antutu": 607352,
+   "ram": [
+    8,
+    12
+   ],
+   "rom": [
+    256
+   ],
+   "rom_type": "UFS 2.2",
+   "sd": true,
+   "os": "Android 16",
+   "ui": "Realme UI 7.0",
+   "os_years": null,
+   "sec_years": null,
+   "bat": {
+    "mah": 7000,
+    "w": 60,
+    "wl": 0,
+    "rev": true,
+    "p30": null,
+    "full": null,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS"
+    ],
+    "kinds": [
+     "main"
+    ],
+    "main": 50,
+    "sensor": "1/2.93\"",
+    "ois": true,
+    "zoom": null,
+    "video": "1080p60",
+    "selfie": 50,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 5",
+    "bt": "5.3",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/realme-16"
+  },
+  {
+   "id": "realme-c100-5g",
+   "brand": "Realme",
+   "model": "C100 5G",
+   "name": "Realme C100 5G",
+   "tier": "basico",
+   "fold": null,
+   "released": "2026-04",
+   "usd": 200,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 56,
+   "s": {
+    "tela": 71,
+    "camera": 46,
+    "desempenho": 28,
+    "jogos": 13,
+    "bateria": 94,
+    "conect": 64
+   },
+   "disp": {
+    "type": "IPS LCD",
+    "inch": 6.8,
+    "res": "720 x 1570",
+    "ppi": 254,
+    "hz": 144,
+    "nits": 900,
+    "nits_test": null,
+    "prot": "Panda MN228"
+   },
+   "body": {
+    "h": 166.47,
+    "w": 78.23,
+    "t": 8.88,
+    "g": 224,
+    "ip": "IP64",
+    "back": "Plastic",
+    "frame": "Plastic",
+    "colors": [
+     "Green",
+     "Purple"
+    ]
+   },
+   "chip": "Dimensity 6300",
+   "nm": 6,
+   "gb6s": 780,
+   "gb6m": 2081,
+   "antutu": 478510,
+   "ram": [
+    4,
+    6
+   ],
+   "rom": [
+    128
+   ],
+   "rom_type": "eMMC 5.1",
+   "sd": true,
+   "os": "Android 16",
+   "ui": "Realme UI 7.0",
+   "os_years": null,
+   "sec_years": null,
+   "bat": {
+    "mah": 7000,
+    "w": 45,
+    "wl": 0,
+    "rev": true,
+    "p30": 50,
+    "full": null,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS"
+    ],
+    "kinds": [
+     "main"
+    ],
+    "main": 50,
+    "sensor": null,
+    "ois": true,
+    "zoom": null,
+    "video": "1080p30",
+    "selfie": 5,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 5",
+    "bt": "5.3",
+    "nfc": false,
+    "esim": false,
+    "g5": true,
+    "jack": true,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/realme-c100-5g"
+  },
+  {
+   "id": "google-pixel-11-pro-xl",
+   "brand": "Google",
+   "model": "Pixel 11 Pro XL",
+   "name": "Pixel 11 Pro XL",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-08",
+   "usd": 1299,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 84,
+   "s": {
+    "tela": 95,
+    "camera": 96,
+    "desempenho": 83,
+    "jogos": 41,
+    "bateria": 72,
+    "conect": 88
+   },
+   "disp": {
+    "type": "OLED",
+    "inch": 6.8,
+    "res": "1344 x 2992",
+    "ppi": 482,
+    "hz": 120,
+    "nits": 2400,
+    "nits_test": null,
+    "prot": "Gorilla Glass Victus 2"
+   },
+   "body": {
+    "h": 162.7,
+    "w": 76.5,
+    "t": 8.5,
+    "g": 226,
+    "ip": "IP68",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "Black",
+     "Blue",
+     "Green",
+     "Orange"
+    ]
+   },
+   "chip": "Tensor G6",
+   "nm": 3,
+   "gb6s": 2888,
+   "gb6m": 7641,
+   "antutu": 1933536,
+   "ram": [
+    12,
+    16
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.0",
+   "sd": false,
+   "os": "Android 17",
+   "ui": "Pixel UI",
+   "os_years": 7,
+   "sec_years": 7,
+   "bat": {
+    "mah": 5115,
+    "w": 45,
+    "wl": 25,
+    "rev": true,
+    "p30": 75,
+    "full": null,
+    "life": null,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.7 OIS",
+     "48 MP tele f/2.8 OIS",
+     "48 MP ultra-angular f/1.7"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.3\"",
+    "ois": true,
+    "zoom": 5,
+    "video": "8K30",
+    "selfie": 42,
+    "dxo": 168
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/google-pixel-11-pro-xl"
+  },
+  {
+   "id": "google-pixel-11-pro",
+   "brand": "Google",
+   "model": "Pixel 11 Pro",
+   "name": "Pixel 11 Pro",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-08",
+   "usd": 1099,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 83,
+   "s": {
+    "tela": 97,
+    "camera": 96,
+    "desempenho": 81,
+    "jogos": 40,
+    "bateria": 70,
+    "conect": 88
+   },
+   "disp": {
+    "type": "OLED",
+    "inch": 6.3,
+    "res": "1280 x 2856",
+    "ppi": 497,
+    "hz": 120,
+    "nits": 2400,
+    "nits_test": 3285,
+    "prot": "Gorilla Glass Victus 2"
+   },
+   "body": {
+    "h": 152.7,
+    "w": 71.9,
+    "t": 8.4,
+    "g": 204,
+    "ip": "IP68",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "Black",
+     "Blue",
+     "Green",
+     "Orange"
+    ]
+   },
+   "chip": "Tensor G6",
+   "nm": 3,
+   "gb6s": 2688,
+   "gb6m": 6871,
+   "antutu": 1925523,
+   "ram": [
+    12,
+    16
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.0",
+   "sd": false,
+   "os": "Android 17",
+   "ui": "Pixel UI",
+   "os_years": 7,
+   "sec_years": 7,
+   "bat": {
+    "mah": 4850,
+    "w": 30,
+    "wl": 25,
+    "rev": true,
+    "p30": 59,
+    "full": 80,
+    "life": 25.73,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.7 OIS",
+     "48 MP tele f/2.8 OIS",
+     "48 MP ultra-angular f/1.7"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.3\"",
+    "ois": true,
+    "zoom": 5,
+    "video": "8K30",
+    "selfie": 42,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/google-pixel-11-pro"
+  },
+  {
+   "id": "google-pixel-11-pro-fold",
+   "brand": "Google",
+   "model": "Pixel 11 Pro Fold",
+   "name": "Pixel 11 Pro Fold",
+   "tier": "topo",
+   "fold": "book",
+   "released": "2026-08",
+   "usd": 1899,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 75,
+   "s": {
+    "tela": 87,
+    "camera": 80,
+    "desempenho": 79,
+    "jogos": 39,
+    "bateria": 60,
+    "conect": 88
+   },
+   "disp": {
+    "type": "OLED",
+    "inch": 8,
+    "res": "2076 x 2152",
+    "ppi": 374,
+    "hz": 120,
+    "nits": 2000,
+    "nits_test": null,
+    "prot": "Ultra Thin Glass"
+   },
+   "body": {
+    "h": 155.2,
+    "w": 150.4,
+    "t": 5,
+    "g": 239,
+    "ip": "IP68",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "Black",
+     "Green"
+    ]
+   },
+   "chip": "Tensor G6",
+   "nm": 3,
+   "gb6s": 2587,
+   "gb6m": 5446,
+   "antutu": 1951408,
+   "ram": [
+    16
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.0",
+   "sd": false,
+   "os": "Android 17",
+   "ui": "Pixel UI",
+   "os_years": 7,
+   "sec_years": 7,
+   "bat": {
+    "mah": 4806,
+    "w": 30,
+    "wl": 25,
+    "rev": true,
+    "p30": 50,
+    "full": 90,
+    "life": null,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "48 MP principal f/1.7 OIS",
+     "10.8 MP tele f/3.0 OIS",
+     "10.5 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 48,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": 5,
+    "video": "4K60",
+    "selfie": 10,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/google-pixel-11-pro-fold"
+  },
+  {
+   "id": "oneplus-15",
+   "brand": "OnePlus",
+   "model": "15",
+   "name": "OnePlus 15",
+   "tier": "topo",
+   "fold": null,
+   "released": "2025-10",
+   "usd": 899,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 93,
+   "s": {
+    "tela": 91,
+    "camera": 91,
+    "desempenho": 97,
+    "jogos": 94,
+    "bateria": 100,
+    "conect": 92
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.78,
+    "res": "1272 x 2772",
+    "ppi": 450,
+    "hz": 165,
+    "nits": 6000,
+    "nits_test": 3413,
+    "prot": "Gorilla Glass Victus 2"
+   },
+   "body": {
+    "h": 161.42,
+    "w": 76.67,
+    "t": 8.1,
+    "g": 211,
+    "ip": "IP69",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "Black",
+     "Gold",
+     "Purple"
+    ]
+   },
+   "chip": "Snapdragon 8 Elite Gen 5",
+   "nm": 3,
+   "gb6s": 3607,
+   "gb6m": 10732,
+   "antutu": 4008294,
+   "ram": [
+    12,
+    16
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "OxygenOS 16",
+   "os_years": 4,
+   "sec_years": 6,
+   "bat": {
+    "mah": 7300,
+    "w": 120,
+    "wl": 50,
+    "rev": true,
+    "p30": null,
+    "full": 43,
+    "life": 39.23,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS",
+     "50 MP tele f/2.8 OIS",
+     "50 MP ultra-angular f/2.0"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": 3.5,
+    "video": "8K30",
+    "selfie": 32,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 80.4
+   },
+   "src": "https://nanoreview.net/en/phone/oneplus-15"
+  },
+  {
+   "id": "oneplus-15t",
+   "brand": "OnePlus",
+   "model": "15T",
+   "name": "OnePlus 15T",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-03",
+   "usd": 799,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 92,
+   "s": {
+    "tela": 92,
+    "camera": 88,
+    "desempenho": 97,
+    "jogos": 95,
+    "bateria": 100,
+    "conect": 87
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.32,
+    "res": "1216 x 2640",
+    "ppi": 460,
+    "hz": 165,
+    "nits": 3600,
+    "nits_test": 1106,
+    "prot": "Crystal Shield Glass"
+   },
+   "body": {
+    "h": 150.56,
+    "w": 71.82,
+    "t": 8.35,
+    "g": 194,
+    "ip": "IP69",
+    "back": "Plastic",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Green",
+     "Brown"
+    ]
+   },
+   "chip": "Snapdragon 8 Elite Gen 5",
+   "nm": 3,
+   "gb6s": 3640,
+   "gb6m": 11033,
+   "antutu": 3927976,
+   "ram": [
+    12,
+    16
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "ColorOS 16",
+   "os_years": 4,
+   "sec_years": 5,
+   "bat": {
+    "mah": 7500,
+    "w": 100,
+    "wl": 50,
+    "rev": true,
+    "p30": 61,
+    "full": 46,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS",
+     "50 MP tele f/2.8 OIS"
+    ],
+    "kinds": [
+     "main",
+     "tele"
+    ],
+    "main": 50,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": 3.5,
+    "video": "8K30",
+    "selfie": 16,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 81.5
+   },
+   "src": "https://nanoreview.net/en/phone/oneplus-15t"
+  },
+  {
+   "id": "oneplus-15r",
+   "brand": "OnePlus",
+   "model": "15R",
+   "name": "OnePlus 15R",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-01",
+   "usd": 699,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 88,
+   "s": {
+    "tela": 92,
+    "camera": 82,
+    "desempenho": 92,
+    "jogos": 77,
+    "bateria": 100,
+    "conect": 81
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.83,
+    "res": "1272 x 2800",
+    "ppi": 450,
+    "hz": 165,
+    "nits": 3600,
+    "nits_test": 3534,
+    "prot": "Gorilla Glass 7i"
+   },
+   "body": {
+    "h": 163.41,
+    "w": 77.04,
+    "t": 8.3,
+    "g": 214,
+    "ip": "IP69",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "Black",
+     "Green",
+     "Purple"
+    ]
+   },
+   "chip": "Snapdragon 8 Gen 5",
+   "nm": 3,
+   "gb6s": 2787,
+   "gb6m": 9181,
+   "antutu": 3039097,
+   "ram": [
+    12
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "OxygenOS 16",
+   "os_years": 4,
+   "sec_years": 6,
+   "bat": {
+    "mah": 7400,
+    "w": 80,
+    "wl": 0,
+    "rev": true,
+    "p30": 64,
+    "full": 53,
+    "life": 38.93,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS",
+     "8 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": null,
+    "video": "4K120",
+    "selfie": 32,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/oneplus-15r"
+  },
+  {
+   "id": "oneplus-nord-6",
+   "brand": "OnePlus",
+   "model": "Nord 6",
+   "name": "OnePlus Nord 6",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-04",
+   "usd": 420,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 81,
+   "s": {
+    "tela": 91,
+    "camera": 75,
+    "desempenho": 76,
+    "jogos": 67,
+    "bateria": 96,
+    "conect": 77
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.78,
+    "res": "1272 x 2772",
+    "ppi": 450,
+    "hz": 165,
+    "nits": 3600,
+    "nits_test": 1133,
+    "prot": "OnePlus Crystal Guard"
+   },
+   "body": {
+    "h": 162.46,
+    "w": 77.45,
+    "t": 8.5,
+    "g": 210,
+    "ip": "IP69",
+    "back": "Plastic",
+    "frame": "Plastic",
+    "colors": [
+     "Black",
+     "Silver",
+     "Green"
+    ]
+   },
+   "chip": "Snapdragon 8s Gen 4",
+   "nm": 4,
+   "gb6s": 2116,
+   "gb6m": 6851,
+   "antutu": 2314061,
+   "ram": [
+    8,
+    12
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "OxygenOS 16",
+   "os_years": 4,
+   "sec_years": 6,
+   "bat": {
+    "mah": 7500,
+    "w": 80,
+    "wl": 0,
+    "rev": true,
+    "p30": null,
+    "full": 87,
+    "life": null,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS",
+     "8 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.95\"",
+    "ois": true,
+    "zoom": null,
+    "video": "4K60",
+    "selfie": 32,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": false,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 85.1
+   },
+   "src": "https://nanoreview.net/en/phone/oneplus-nord-6"
+  },
+  {
+   "id": "oneplus-nord-ce6",
+   "brand": "OnePlus",
+   "model": "Nord CE6",
+   "name": "OnePlus Nord CE6",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-05",
+   "usd": 320,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 68,
+   "s": {
+    "tela": 92,
+    "camera": 54,
+    "desempenho": 47,
+    "jogos": 29,
+    "bateria": 100,
+    "conect": 68
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.78,
+    "res": "1272 x 2772",
+    "ppi": 450,
+    "hz": 144,
+    "nits": 3600,
+    "nits_test": null,
+    "prot": "Tempered glass"
+   },
+   "body": {
+    "h": 162.5,
+    "w": 77.5,
+    "t": 8.5,
+    "g": 215,
+    "ip": "IP69",
+    "back": "Plastic",
+    "frame": "Plastic",
+    "colors": [
+     "Black",
+     "Silver",
+     "Blue"
+    ]
+   },
+   "chip": "Snapdragon 7s Gen 4",
+   "nm": 4,
+   "gb6s": 1098,
+   "gb6m": 3111,
+   "antutu": 1145513,
+   "ram": [
+    8
+   ],
+   "rom": [
+    128,
+    256
+   ],
+   "rom_type": "UFS 3.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "OxygenOS 16",
+   "os_years": 4,
+   "sec_years": 5,
+   "bat": {
+    "mah": 8000,
+    "w": 80,
+    "wl": 0,
+    "rev": true,
+    "p30": null,
+    "full": null,
+    "life": null,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS"
+    ],
+    "kinds": [
+     "main"
+    ],
+    "main": 50,
+    "sensor": "1/2.88\"",
+    "ois": true,
+    "zoom": null,
+    "video": "4K30",
+    "selfie": 32,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 6",
+    "bt": "5.2",
+    "nfc": false,
+    "esim": false,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/oneplus-nord-ce6"
+  },
+  {
+   "id": "google-pixel-11",
+   "brand": "Google",
+   "model": "Pixel 11",
+   "name": "Pixel 11",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-08",
+   "usd": 899,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 81,
+   "s": {
+    "tela": 92,
+    "camera": 90,
+    "desempenho": 84,
+    "jogos": 38,
+    "bateria": 70,
+    "conect": 84
+   },
+   "disp": {
+    "type": "OLED",
+    "inch": 6.3,
+    "res": "1080 x 2424",
+    "ppi": 422,
+    "hz": 120,
+    "nits": 2000,
+    "nits_test": 2154,
+    "prot": "Gorilla Glass Victus 2"
+   },
+   "body": {
+    "h": 152.8,
+    "w": 72,
+    "t": 8.6,
+    "g": 197,
+    "ip": "IP68",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "Black",
+     "Green",
+     "Red",
+     "Purple"
+    ]
+   },
+   "chip": "Tensor G6",
+   "nm": 3,
+   "gb6s": 2575,
+   "gb6m": 6027,
+   "antutu": null,
+   "ram": [
+    12
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "UFS 4.0",
+   "sd": false,
+   "os": "Android 17",
+   "ui": "Pixel UI",
+   "os_years": 7,
+   "sec_years": 7,
+   "bat": {
+    "mah": 4985,
+    "w": 30,
+    "wl": 25,
+    "rev": true,
+    "p30": 59,
+    "full": 79,
+    "life": 25.68,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "48 MP principal f/1.7 OIS",
+     "10.8 MP tele f/3.1 OIS",
+     "13 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 48,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": 5,
+    "video": "4K60",
+    "selfie": 10.5,
+    "dxo": 154
+   },
+   "con": {
+    "wifi": "Wi-Fi 6E",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/google-pixel-11"
+  },
+  {
+   "id": "google-pixel-10a",
+   "brand": "Google",
+   "model": "Pixel 10a",
+   "name": "Pixel 10a",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-03",
+   "usd": 499,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 72,
+   "s": {
+    "tela": 90,
+    "camera": 75,
+    "desempenho": 59,
+    "jogos": 43,
+    "bateria": 73,
+    "conect": 84
+   },
+   "disp": {
+    "type": "POLED",
+    "inch": 6.3,
+    "res": "1080 x 2424",
+    "ppi": 422,
+    "hz": 120,
+    "nits": 2000,
+    "nits_test": 2917,
+    "prot": "Corning Gorilla Glass 7i"
+   },
+   "body": {
+    "h": 153.9,
+    "w": 73,
+    "t": 9,
+    "g": 183,
+    "ip": "IP68",
+    "back": "Plastic",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Black",
+     "Red",
+     "Purple"
+    ]
+   },
+   "chip": "Tensor G4",
+   "nm": 4,
+   "gb6s": 1674,
+   "gb6m": 4114,
+   "antutu": 1422477,
+   "ram": [
+    8
+   ],
+   "rom": [
+    128,
+    256
+   ],
+   "rom_type": "UFS 3.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "Pixel UI",
+   "os_years": 7,
+   "sec_years": 7,
+   "bat": {
+    "mah": 5100,
+    "w": 30,
+    "wl": 10,
+    "rev": true,
+    "p30": 52,
+    "full": 89,
+    "life": 26.98,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "48 MP principal f/1.7 OIS",
+     "13 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 48,
+    "sensor": "1/2\"",
+    "ois": true,
+    "zoom": null,
+    "video": "4K60",
+    "selfie": 13,
+    "dxo": 134
+   },
+   "con": {
+    "wifi": "Wi-Fi 6E",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 84.9
+   },
+   "src": "https://nanoreview.net/en/phone/google-pixel-10a"
+  },
+  {
+   "id": "nothing-phone-3",
+   "brand": "Nothing",
+   "model": "Phone (3)",
+   "name": "Nothing Phone (3)",
+   "tier": "topo",
+   "fold": null,
+   "released": "2025-07",
+   "usd": 799,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 79,
+   "s": {
+    "tela": 90,
+    "camera": 83,
+    "desempenho": 79,
+    "jogos": 69,
+    "bateria": 67,
+    "conect": 87
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.67,
+    "res": "1260 x 2800",
+    "ppi": 460,
+    "hz": 120,
+    "nits": 4500,
+    "nits_test": 1508,
+    "prot": "Corning Gorilla Glass 7i"
+   },
+   "body": {
+    "h": 160.6,
+    "w": 75.59,
+    "t": 8.99,
+    "g": 218,
+    "ip": "IP68",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Black"
+    ]
+   },
+   "chip": "Snapdragon 8s Gen 4",
+   "nm": 4,
+   "gb6s": 2117,
+   "gb6m": 6798,
+   "antutu": 2371693,
+   "ram": [
+    12,
+    16
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "UFS 4.0",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "Nothing OS 4.0",
+   "os_years": 5,
+   "sec_years": 7,
+   "bat": {
+    "mah": 5150,
+    "w": 65,
+    "wl": 15,
+    "rev": true,
+    "p30": 63,
+    "full": 60,
+    "life": 22.93,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.7 OIS",
+     "50 MP tele f/2.7 OIS",
+     "50 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.3\"",
+    "ois": true,
+    "zoom": 3,
+    "video": "4K60",
+    "selfie": 50,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 93.2
+   },
+   "src": "https://nanoreview.net/en/phone/nothing-phone-3"
+  },
+  {
+   "id": "nothing-phone-4a-pro",
+   "brand": "Nothing",
+   "model": "Phone (4a) Pro",
+   "name": "Nothing Phone (4a) Pro",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-03",
+   "usd": 499,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 72,
+   "s": {
+    "tela": 91,
+    "camera": 78,
+    "desempenho": 55,
+    "jogos": 33,
+    "bateria": 78,
+    "conect": 73
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.83,
+    "res": "1260 x 2800",
+    "ppi": 440,
+    "hz": 144,
+    "nits": 5000,
+    "nits_test": 1565,
+    "prot": "Corning Gorilla Glass 7i"
+   },
+   "body": {
+    "h": 163.6,
+    "w": 76.6,
+    "t": 7.9,
+    "g": 210,
+    "ip": "IP65",
+    "back": "Metal",
+    "frame": "Metal",
+    "colors": [
+     "Black",
+     "Silver",
+     "Pink"
+    ]
+   },
+   "chip": "Snapdragon 7 Gen 4",
+   "nm": 4,
+   "gb6s": 1332,
+   "gb6m": 4146,
+   "antutu": 1355225,
+   "ram": [
+    8,
+    12
+   ],
+   "rom": [
+    128,
+    256
+   ],
+   "rom_type": "UFS 3.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "Nothing OS 4.1",
+   "os_years": 3,
+   "sec_years": 6,
+   "bat": {
+    "mah": 5080,
+    "w": 50,
+    "wl": 0,
+    "rev": true,
+    "p30": 68,
+    "full": 61,
+    "life": 28.42,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.9 OIS",
+     "50 MP tele f/2.9 OIS",
+     "8 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": 3.5,
+    "video": "4K30",
+    "selfie": 32,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 6",
+    "bt": "5.4",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 88.9
+   },
+   "src": "https://nanoreview.net/en/phone/nothing-phone-4a-pro"
+  },
+  {
+   "id": "nothing-phone-4a",
+   "brand": "Nothing",
+   "model": "Phone (4a)",
+   "name": "Nothing Phone (4a)",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-03",
+   "usd": 349,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 69,
+   "s": {
+    "tela": 92,
+    "camera": 78,
+    "desempenho": 48,
+    "jogos": 23,
+    "bateria": 72,
+    "conect": 69
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.78,
+    "res": "1224 x 2720",
+    "ppi": 440,
+    "hz": 120,
+    "nits": 4500,
+    "nits_test": 1518,
+    "prot": "Corning Gorilla Glass 7i"
+   },
+   "body": {
+    "h": 163.9,
+    "w": 77.5,
+    "t": 8.5,
+    "g": 205,
+    "ip": "IP64",
+    "back": "Glass",
+    "frame": "Plastic",
+    "colors": [
+     "White",
+     "Black",
+     "Blue",
+     "Pink"
+    ]
+   },
+   "chip": "Snapdragon 7s Gen 4",
+   "nm": 4,
+   "gb6s": 1249,
+   "gb6m": 3324,
+   "antutu": 1039119,
+   "ram": [
+    8,
+    12
+   ],
+   "rom": [
+    128,
+    256
+   ],
+   "rom_type": "UFS 3.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "Nothing OS 4.1",
+   "os_years": 3,
+   "sec_years": 6,
+   "bat": {
+    "mah": 5080,
+    "w": 50,
+    "wl": 0,
+    "rev": true,
+    "p30": 64,
+    "full": 66,
+    "life": 25.6,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.9 OIS",
+     "50 MP tele f/2.9 OIS",
+     "8 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.57\"",
+    "ois": true,
+    "zoom": 3.5,
+    "video": "4K30",
+    "selfie": 32,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 6",
+    "bt": "5.4",
+    "nfc": true,
+    "esim": false,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/nothing-phone-4a"
+  },
+  {
+   "id": "nothing-phone-4b",
+   "brand": "Nothing",
+   "model": "Phone (4b)",
+   "name": "Nothing Phone (4b)",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-07",
+   "usd": 329,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 65,
+   "s": {
+    "tela": 88,
+    "camera": 69,
+    "desempenho": 42,
+    "jogos": 23,
+    "bateria": 76,
+    "conect": 73
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.77,
+    "res": "1080 x 2344",
+    "ppi": 381,
+    "hz": 120,
+    "nits": 2000,
+    "nits_test": null,
+    "prot": "Dragontail Pro Glass"
+   },
+   "body": {
+    "h": 164.4,
+    "w": 78.2,
+    "t": 8.6,
+    "g": 210,
+    "ip": "IP64",
+    "back": "Plastic",
+    "frame": "Plastic",
+    "colors": [
+     "White",
+     "Black",
+     "Blue"
+    ]
+   },
+   "chip": "Snapdragon 6 Gen 4",
+   "nm": 4,
+   "gb6s": 1087,
+   "gb6m": 3148,
+   "antutu": 833247,
+   "ram": [
+    8
+   ],
+   "rom": [
+    128,
+    256
+   ],
+   "rom_type": "UFS 2.2",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "Nothing OS 4.1",
+   "os_years": 3,
+   "sec_years": 6,
+   "bat": {
+    "mah": 5200,
+    "w": 33,
+    "wl": 0,
+    "rev": true,
+    "p30": null,
+    "full": null,
+    "life": null,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS",
+     "8 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/2.76\"",
+    "ois": true,
+    "zoom": null,
+    "video": "4K30",
+    "selfie": 16,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 6",
+    "bt": "6.0",
+    "nfc": "region",
+    "esim": false,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/nothing-phone-4b"
+  },
+  {
+   "id": "honor-magic-9-pro-max",
+   "brand": "Honor",
+   "model": "Magic 9 Pro Max",
+   "name": "Honor Magic 9 Pro Max",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-10",
+   "usd": 970,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 94,
+   "s": {
+    "tela": 93,
+    "camera": 95,
+    "desempenho": 98,
+    "jogos": 99,
+    "bateria": 99,
+    "conect": 98
+   },
+   "disp": {
+    "type": "OLED",
+    "inch": 6.8,
+    "res": "1320 x 2868",
+    "ppi": 464,
+    "hz": 120,
+    "nits": 10000,
+    "nits_test": null,
+    "prot": "NanoCrystal Shield"
+   },
+   "body": {
+    "h": 161.6,
+    "w": 77,
+    "t": 8.6,
+    "g": 233,
+    "ip": "IP69",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "Black",
+     "Silver",
+     "Green"
+    ]
+   },
+   "chip": "Snapdragon 8 Elite Extreme Gen 6",
+   "nm": 2,
+   "gb6s": 3590,
+   "gb6m": 9929,
+   "antutu": 5524187,
+   "ram": [
+    12,
+    16
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 17",
+   "ui": "MagicOS 11",
+   "os_years": 7,
+   "sec_years": 7,
+   "bat": {
+    "mah": 8800,
+    "w": 100,
+    "wl": 80,
+    "rev": true,
+    "p30": null,
+    "full": null,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "200 MP principal f/1.6 OIS",
+     "200 MP tele f/2.6 OIS",
+     "50 MP ultra-angular f/2.0"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 200,
+    "sensor": "1/1.28\"",
+    "ois": true,
+    "zoom": 3.5,
+    "video": "4K120",
+    "selfie": 55,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 8",
+    "bt": "6.3",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/honor-magic-9-pro-max"
+  },
+  {
+   "id": "honor-magic-8-pro",
+   "brand": "Honor",
+   "model": "Magic 8 Pro",
+   "name": "Honor Magic 8 Pro",
+   "tier": "topo",
+   "fold": null,
+   "released": "2025-10",
+   "usd": 999,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 93,
+   "s": {
+    "tela": 91,
+    "camera": 95,
+    "desempenho": 98,
+    "jogos": 97,
+    "bateria": 92,
+    "conect": 92
+   },
+   "disp": {
+    "type": "OLED",
+    "inch": 6.71,
+    "res": "1256 x 2808",
+    "ppi": 458,
+    "hz": 120,
+    "nits": 6000,
+    "nits_test": 5277,
+    "prot": "Giant Rhino Glass"
+   },
+   "body": {
+    "h": 161.15,
+    "w": 75,
+    "t": 8.32,
+    "g": 219,
+    "ip": "IP69",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Black",
+     "Gold",
+     "Green"
+    ]
+   },
+   "chip": "Snapdragon 8 Elite Gen 5",
+   "nm": 3,
+   "gb6s": 3568,
+   "gb6m": 10610,
+   "antutu": 3966144,
+   "ram": [
+    12,
+    16
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "MagicOS 10",
+   "os_years": 7,
+   "sec_years": 7,
+   "bat": {
+    "mah": 7200,
+    "w": 120,
+    "wl": 80,
+    "rev": true,
+    "p30": 81,
+    "full": 40,
+    "life": 32.1,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.6 OIS",
+     "200 MP tele f/2.6 OIS",
+     "50 MP ultra-angular f/2.0"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.3\"",
+    "ois": true,
+    "zoom": 3.7,
+    "video": "4K120",
+    "selfie": 50,
+    "dxo": 164
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/honor-magic-8-pro"
+  },
+  {
+   "id": "honor-magic-v6",
+   "brand": "Honor",
+   "model": "Magic V6",
+   "name": "Honor Magic V6",
+   "tier": "topo",
+   "fold": "book",
+   "released": "2026-03",
+   "usd": 1920,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 88,
+   "s": {
+    "tela": 88,
+    "camera": 83,
+    "desempenho": 98,
+    "jogos": 95,
+    "bateria": 85,
+    "conect": 91
+   },
+   "disp": {
+    "type": "OLED",
+    "inch": 7.95,
+    "res": "2172 x 2352",
+    "ppi": 406,
+    "hz": 120,
+    "nits": 6000,
+    "nits_test": null,
+    "prot": "Honor Super Armored Inner Screen"
+   },
+   "body": {
+    "h": 156.7,
+    "w": 145.6,
+    "t": 8.75,
+    "g": 219,
+    "ip": "IP69",
+    "back": null,
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Black",
+     "Gold",
+     "Red",
+     "Brown"
+    ]
+   },
+   "chip": "Snapdragon 8 Elite Gen 5",
+   "nm": 3,
+   "gb6s": 3707,
+   "gb6m": 10626,
+   "antutu": 4166339,
+   "ram": [
+    12,
+    16
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "MagicOS 10",
+   "os_years": 7,
+   "sec_years": 7,
+   "bat": {
+    "mah": 6660,
+    "w": 80,
+    "wl": 66,
+    "rev": true,
+    "p30": null,
+    "full": null,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.6 OIS",
+     "64 MP tele f/2.5 OIS",
+     "50 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": 3,
+    "video": "4K60",
+    "selfie": 20,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/honor-magic-v6"
+  },
+  {
+   "id": "honor-600-pro",
+   "brand": "Honor",
+   "model": "600 Pro",
+   "name": "Honor 600 Pro",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-04",
+   "usd": 999,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 89,
+   "s": {
+    "tela": 93,
+    "camera": 87,
+    "desempenho": 94,
+    "jogos": 86,
+    "bateria": 86,
+    "conect": 87
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.57,
+    "res": "1264 x 2728",
+    "ppi": 458,
+    "hz": 120,
+    "nits": 8000,
+    "nits_test": 6082,
+    "prot": "Tempered glass"
+   },
+   "body": {
+    "h": 156,
+    "w": 74.7,
+    "t": 7.8,
+    "g": 200,
+    "ip": "IP69",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Black",
+     "Orange"
+    ]
+   },
+   "chip": "Snapdragon 8 Elite",
+   "nm": 3,
+   "gb6s": 3058,
+   "gb6m": 9377,
+   "antutu": 3038473,
+   "ram": [
+    12
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "MagicOS 10",
+   "os_years": 6,
+   "sec_years": 6,
+   "bat": {
+    "mah": 7000,
+    "w": 80,
+    "wl": 50,
+    "rev": true,
+    "p30": 71,
+    "full": 48,
+    "life": 29.88,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "200 MP principal f/1.9 OIS",
+     "50 MP tele f/2.8 OIS",
+     "12 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 200,
+    "sensor": "1/1.4\"",
+    "ois": true,
+    "zoom": 3.5,
+    "video": "4K60",
+    "selfie": 50,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/honor-600-pro"
+  },
+  {
+   "id": "honor-600",
+   "brand": "Honor",
+   "model": "600",
+   "name": "Honor 600",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-04",
+   "usd": 649,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 77,
+   "s": {
+    "tela": 93,
+    "camera": 84,
+    "desempenho": 56,
+    "jogos": 34,
+    "bateria": 91,
+    "conect": 77
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.57,
+    "res": "1264 x 2728",
+    "ppi": 458,
+    "hz": 120,
+    "nits": 8000,
+    "nits_test": 6121,
+    "prot": "Tempered glass"
+   },
+   "body": {
+    "h": 156,
+    "w": 74.7,
+    "t": 7.8,
+    "g": 185,
+    "ip": "IP69",
+    "back": "Plastic",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Black",
+     "Orange"
+    ]
+   },
+   "chip": "Snapdragon 7 Gen 4",
+   "nm": 4,
+   "gb6s": 1329,
+   "gb6m": 4105,
+   "antutu": 1426281,
+   "ram": [
+    8,
+    12
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "UFS 3.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "MagicOS 10",
+   "os_years": 6,
+   "sec_years": 6,
+   "bat": {
+    "mah": 7000,
+    "w": 80,
+    "wl": 0,
+    "rev": true,
+    "p30": 71,
+    "full": 47,
+    "life": 31.9,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "200 MP principal f/1.9 OIS",
+     "12 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 200,
+    "sensor": "1/1.4\"",
+    "ois": true,
+    "zoom": null,
+    "video": "4K60",
+    "selfie": 50,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "5.4",
+    "nfc": "region",
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 87.8
+   },
+   "src": "https://nanoreview.net/en/phone/honor-600"
+  },
+  {
+   "id": "honor-x9e-pro",
+   "brand": "Honor",
+   "model": "X9e Pro",
+   "name": "Honor X9e Pro",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-10",
+   "usd": 465,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 74,
+   "s": {
+    "tela": 92,
+    "camera": 77,
+    "desempenho": 45,
+    "jogos": 30,
+    "bateria": 100,
+    "conect": 73
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.8,
+    "res": "1280 x 2788",
+    "ppi": 451,
+    "hz": 120,
+    "nits": 10000,
+    "nits_test": null,
+    "prot": "Gorilla Glass Victus 2"
+   },
+   "body": {
+    "h": 162.2,
+    "w": 77,
+    "t": 8.1,
+    "g": 203,
+    "ip": "IP69",
+    "back": "Eco-leather",
+    "frame": "Plastic",
+    "colors": [
+     "White",
+     "Black",
+     "Gold",
+     "Purple",
+     "Brown"
+    ]
+   },
+   "chip": "Snapdragon 6 Gen 5",
+   "nm": 4,
+   "gb6s": 1174,
+   "gb6m": 3487,
+   "antutu": 1008325,
+   "ram": [
+    6,
+    8,
+    12
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "UFS 2.2",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "MagicOS 10",
+   "os_years": null,
+   "sec_years": null,
+   "bat": {
+    "mah": 11000,
+    "w": 80,
+    "wl": 0,
+    "rev": true,
+    "p30": null,
+    "full": null,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "108 MP principal f/1.7 OIS",
+     "5 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 108,
+    "sensor": null,
+    "ois": true,
+    "zoom": null,
+    "video": "4K30",
+    "selfie": 16,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 6E",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": false,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/honor-x9e-pro"
+  },
+  {
+   "id": "honor-magic-8-lite-5g",
+   "brand": "Honor",
+   "model": "Magic 8 Lite 5G",
+   "name": "Honor Magic 8 Lite 5G",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-01",
+   "usd": 460,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 69,
+   "s": {
+    "tela": 89,
+    "camera": 69,
+    "desempenho": 46,
+    "jogos": 22,
+    "bateria": 91,
+    "conect": 72
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.79,
+    "res": "1200 x 2640",
+    "ppi": 427,
+    "hz": 120,
+    "nits": 6000,
+    "nits_test": 1779,
+    "prot": "Tempered glass"
+   },
+   "body": {
+    "h": 161.9,
+    "w": 76.1,
+    "t": 7.9,
+    "g": 189,
+    "ip": "IP69",
+    "back": "Plastic",
+    "frame": "Plastic",
+    "colors": [
+     "Black",
+     "Green",
+     "Brown"
+    ]
+   },
+   "chip": "Snapdragon 6 Gen 4",
+   "nm": 4,
+   "gb6s": 1092,
+   "gb6m": 3106,
+   "antutu": 994655,
+   "ram": [
+    8
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "UFS 3.1",
+   "sd": false,
+   "os": "Android 15",
+   "ui": "MagicOS 10",
+   "os_years": 2,
+   "sec_years": 3,
+   "bat": {
+    "mah": 7500,
+    "w": 66,
+    "wl": 0,
+    "rev": true,
+    "p30": 49,
+    "full": 70,
+    "life": 31.75,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "108 MP principal f/1.8 OIS",
+     "5 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 108,
+    "sensor": "1/1.67\"",
+    "ois": true,
+    "zoom": null,
+    "video": "4K30",
+    "selfie": 16,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 6",
+    "bt": "5.3",
+    "nfc": "region",
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/honor-magic-8-lite-5g"
+  },
+  {
+   "id": "oppo-find-x10-pro-max",
+   "brand": "Oppo",
+   "model": "Find X10 Pro Max",
+   "name": "Oppo Find X10 Pro Max",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-09",
+   "usd": 1199,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 94,
+   "s": {
+    "tela": 94,
+    "camera": 92,
+    "desempenho": 98,
+    "jogos": 98,
+    "bateria": 100,
+    "conect": 93
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.78,
+    "res": "1272 x 2772",
+    "ppi": 450,
+    "hz": 144,
+    "nits": 3600,
+    "nits_test": null,
+    "prot": "Gorilla Glass Victus 2"
+   },
+   "body": {
+    "h": 161.32,
+    "w": 76.57,
+    "t": 8.4,
+    "g": 233,
+    "ip": "IP69",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Gray",
+     "Orange"
+    ]
+   },
+   "chip": "Dimensity 9600 Pro",
+   "nm": 2,
+   "gb6s": 3943,
+   "gb6m": 12130,
+   "antutu": 4706878,
+   "ram": [
+    12,
+    16
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 17",
+   "ui": "ColorOS 17",
+   "os_years": 5,
+   "sec_years": 6,
+   "bat": {
+    "mah": 8000,
+    "w": 80,
+    "wl": 50,
+    "rev": true,
+    "p30": null,
+    "full": null,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "200 MP principal f/1.5 OIS",
+     "200 MP tele f/2.1 OIS",
+     "200 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 200,
+    "sensor": "1/1.3\"",
+    "ois": true,
+    "zoom": 3,
+    "video": "8K30",
+    "selfie": 50,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.2",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/oppo-find-x10-pro-max"
+  },
+  {
+   "id": "oppo-find-x10",
+   "brand": "Oppo",
+   "model": "Find X10",
+   "name": "Oppo Find X10",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-09",
+   "usd": 820,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 92,
+   "s": {
+    "tela": 94,
+    "camera": 87,
+    "desempenho": 97,
+    "jogos": 92,
+    "bateria": 100,
+    "conect": 88
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.59,
+    "res": "1272 x 2772",
+    "ppi": 462,
+    "hz": 144,
+    "nits": 3600,
+    "nits_test": null,
+    "prot": "Gorilla Glass Victus 2"
+   },
+   "body": {
+    "h": 156.51,
+    "w": 74.29,
+    "t": 8.35,
+    "g": 216,
+    "ip": "IP69",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "Gray",
+     "Blue",
+     "Pink",
+     "Orange"
+    ]
+   },
+   "chip": "Dimensity 9600M",
+   "nm": 3,
+   "gb6s": 3609,
+   "gb6m": 10750,
+   "antutu": 3852105,
+   "ram": [
+    12,
+    16
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 17",
+   "ui": "ColorOS 17",
+   "os_years": 5,
+   "sec_years": 6,
+   "bat": {
+    "mah": 8000,
+    "w": 80,
+    "wl": 50,
+    "rev": true,
+    "p30": null,
+    "full": null,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "200 MP principal f/1.6 OIS",
+     "200 MP tele f/2.6 OIS",
+     "50 MP ultra-angular f/2.0"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 200,
+    "sensor": "1/1.3\"",
+    "ois": true,
+    "zoom": 2.8,
+    "video": "8K30",
+    "selfie": 50,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.2",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/oppo-find-x10"
+  },
+  {
+   "id": "oppo-find-x9-ultra",
+   "brand": "Oppo",
+   "model": "Find X9 Ultra",
+   "name": "Oppo Find X9 Ultra",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-05",
+   "usd": 1299,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 95,
+   "s": {
+    "tela": 96,
+    "camera": 97,
+    "desempenho": 98,
+    "jogos": 96,
+    "bateria": 100,
+    "conect": 92
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.82,
+    "res": "1440 x 3168",
+    "ppi": 510,
+    "hz": 144,
+    "nits": 3600,
+    "nits_test": 3394,
+    "prot": "Gorilla Glass Victus 2"
+   },
+   "body": {
+    "h": 163.16,
+    "w": 76.97,
+    "t": 8.65,
+    "g": 235,
+    "ip": "IP69",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Green",
+     "Orange"
+    ]
+   },
+   "chip": "Snapdragon 8 Elite Gen 5",
+   "nm": 3,
+   "gb6s": 3536,
+   "gb6m": 10744,
+   "antutu": 4231988,
+   "ram": [
+    12,
+    16
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "ColorOS 16",
+   "os_years": 5,
+   "sec_years": 6,
+   "bat": {
+    "mah": 7050,
+    "w": 100,
+    "wl": 50,
+    "rev": true,
+    "p30": 75,
+    "full": 45,
+    "life": 37.0,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "200 MP principal f/1.5 OIS",
+     "200 MP tele f/2.2 OIS",
+     "50 MP tele",
+     "50 MP ultra-angular f/2.0"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "tele",
+     "ultra"
+    ],
+    "main": 200,
+    "sensor": "1/1.12\"",
+    "ois": true,
+    "zoom": 10,
+    "video": "8K30",
+    "selfie": 50,
+    "dxo": 170
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 88.9
+   },
+   "src": "https://nanoreview.net/en/phone/oppo-find-x9-ultra"
+  },
+  {
+   "id": "oppo-reno-16-pro-5g-global",
+   "brand": "Oppo",
+   "model": "Reno 16 Pro 5G",
+   "name": "Oppo Reno 16 Pro 5G",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-07",
+   "usd": 899,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 80,
+   "s": {
+    "tela": 93,
+    "camera": 82,
+    "desempenho": 73,
+    "jogos": 75,
+    "bateria": 77,
+    "conect": 77
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.32,
+    "res": "1216 x 2640",
+    "ppi": 460,
+    "hz": 144,
+    "nits": 3600,
+    "nits_test": 1848,
+    "prot": "Tempered glass"
+   },
+   "body": {
+    "h": 151.21,
+    "w": 72.42,
+    "t": 8.2,
+    "g": 188,
+    "ip": "IP69",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Black",
+     "Purple"
+    ]
+   },
+   "chip": "Dimensity 8550 Super",
+   "nm": 4,
+   "gb6s": 1567,
+   "gb6m": 5965,
+   "antutu": 2429134,
+   "ram": [
+    12
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "UFS 3.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "ColorOS 16",
+   "os_years": 5,
+   "sec_years": 6,
+   "bat": {
+    "mah": 6700,
+    "w": 80,
+    "wl": 0,
+    "rev": true,
+    "p30": 50,
+    "full": 63,
+    "life": null,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "200 MP principal f/1.8 OIS",
+     "50 MP tele f/2.8 OIS",
+     "50 MP ultra-angular f/2.0"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 200,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": 3.5,
+    "video": "4K60",
+    "selfie": 50,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 6",
+    "bt": "5.4",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/oppo-reno-16-pro-5g-global"
+  },
+  {
+   "id": "oppo-reno-16-f-5g",
+   "brand": "Oppo",
+   "model": "Reno 16 F 5G",
+   "name": "Oppo Reno 16 F 5G",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-07",
+   "usd": 480,
+   "brl_launch": null,
+   "brl_now": 4231,
+   "br_note": null,
+   "score": 70,
+   "s": {
+    "tela": 85,
+    "camera": 79,
+    "desempenho": 42,
+    "jogos": 23,
+    "bateria": 90,
+    "conect": 73
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.57,
+    "res": "1080 x 2372",
+    "ppi": 397,
+    "hz": 120,
+    "nits": 1400,
+    "nits_test": null,
+    "prot": "Crystal Guard"
+   },
+   "body": {
+    "h": 158.16,
+    "w": 74.93,
+    "t": 8.44,
+    "g": 195,
+    "ip": "IP69",
+    "back": "Glass",
+    "frame": "Plastic",
+    "colors": [
+     "White",
+     "Purple"
+    ]
+   },
+   "chip": "Dimensity 7300 Energy",
+   "nm": 4,
+   "gb6s": 1008,
+   "gb6m": 2891,
+   "antutu": 789658,
+   "ram": [
+    8,
+    12
+   ],
+   "rom": [
+    128,
+    256
+   ],
+   "rom_type": "UFS 3.1",
+   "sd": true,
+   "os": "Android 16",
+   "ui": "ColorOS 16",
+   "os_years": 3,
+   "sec_years": 4,
+   "bat": {
+    "mah": 7000,
+    "w": 80,
+    "wl": 0,
+    "rev": true,
+    "p30": 50,
+    "full": 62,
+    "life": null,
+    "charger": null
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS",
+     "50 MP tele f/2.8 OIS",
+     "8 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/2.0\"",
+    "ois": true,
+    "zoom": 3.5,
+    "video": "4K30",
+    "selfie": 50,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 6",
+    "bt": "5.4",
+    "nfc": null,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/oppo-reno-16-f-5g"
+  },
+  {
+   "id": "oppo-a6-5g",
+   "brand": "Oppo",
+   "model": "A6 5G",
+   "name": "Oppo A6 5G",
+   "tier": "basico",
+   "fold": null,
+   "released": "2026-01",
+   "usd": null,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 58,
+   "s": {
+    "tela": 70,
+    "camera": 59,
+    "desempenho": 30,
+    "jogos": 13,
+    "bateria": 89,
+    "conect": 65
+   },
+   "disp": {
+    "type": "IPS LCD",
+    "inch": 6.75,
+    "res": "720 x 1570",
+    "ppi": 256,
+    "hz": 120,
+    "nits": 1125,
+    "nits_test": null,
+    "prot": "Tempered glass"
+   },
+   "body": {
+    "h": 166.61,
+    "w": 78.51,
+    "t": 8.61,
+    "g": 216,
+    "ip": "IP69",
+    "back": "Plastic",
+    "frame": "Plastic",
+    "colors": [
+     "Blue",
+     "Pink",
+     "Purple"
+    ]
+   },
+   "chip": "Dimensity 6300",
+   "nm": 6,
+   "gb6s": 776,
+   "gb6m": 1992,
+   "antutu": 531619,
+   "ram": [
+    4,
+    6,
+    8,
+    12
+   ],
+   "rom": [
+    128,
+    256
+   ],
+   "rom_type": "UFS 2.2",
+   "sd": true,
+   "os": "Android 15",
+   "ui": "ColorOS 15",
+   "os_years": 1,
+   "sec_years": 3,
+   "bat": {
+    "mah": 7000,
+    "w": 45,
+    "wl": 0,
+    "rev": true,
+    "p30": 37,
+    "full": null,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS"
+    ],
+    "kinds": [
+     "main"
+    ],
+    "main": 50,
+    "sensor": null,
+    "ois": true,
+    "zoom": null,
+    "video": "1080p60",
+    "selfie": 8,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 5",
+    "bt": "5.4",
+    "nfc": "region",
+    "esim": false,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/oppo-a6-5g"
+  },
+  {
+   "id": "vivo-x500-pro-max",
+   "brand": "Vivo",
+   "model": "X500 Pro Max",
+   "name": "Vivo X500 Pro Max",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-09",
+   "usd": 1299,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 96,
+   "s": {
+    "tela": 98,
+    "camera": 95,
+    "desempenho": 98,
+    "jogos": 98,
+    "bateria": 100,
+    "conect": 92
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.85,
+    "res": "1440 x 3168",
+    "ppi": 507,
+    "hz": 144,
+    "nits": 4400,
+    "nits_test": null,
+    "prot": "Armor Glass"
+   },
+   "body": {
+    "h": 163.32,
+    "w": 76.82,
+    "t": 7.95,
+    "g": 225,
+    "ip": "IP69",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Black",
+     "Silver",
+     "Orange"
+    ]
+   },
+   "chip": "Dimensity 9600 Pro",
+   "nm": 2,
+   "gb6s": 4172,
+   "gb6m": 12688,
+   "antutu": 4838033,
+   "ram": [
+    12,
+    16
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 17",
+   "ui": "OriginOS 7",
+   "os_years": 5,
+   "sec_years": 7,
+   "bat": {
+    "mah": 8000,
+    "w": 90,
+    "wl": 40,
+    "rev": true,
+    "p30": null,
+    "full": null,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.6 OIS",
+     "200 MP tele f/2.7 OIS",
+     "50 MP ultra-angular f/2.0"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.28\"",
+    "ois": true,
+    "zoom": 3.5,
+    "video": "8K30",
+    "selfie": 50,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/vivo-x500-pro-max"
+  },
+  {
+   "id": "vivo-x500-pro",
+   "brand": "Vivo",
+   "model": "X500 Pro",
+   "name": "Vivo X500 Pro",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-09",
+   "usd": 1199,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 92,
+   "s": {
+    "tela": 94,
+    "camera": 95,
+    "desempenho": 98,
+    "jogos": 98,
+    "bateria": 81,
+    "conect": 92
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.36,
+    "res": "1216 x 2660",
+    "ppi": 459,
+    "hz": 144,
+    "nits": 4500,
+    "nits_test": null,
+    "prot": "Armor Glass"
+   },
+   "body": {
+    "h": 151.78,
+    "w": 71.92,
+    "t": 7.95,
+    "g": 192,
+    "ip": "IP69",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Black",
+     "Silver",
+     "Orange"
+    ]
+   },
+   "chip": "Dimensity 9600 Pro",
+   "nm": 2,
+   "gb6s": 4184,
+   "gb6m": 12603,
+   "antutu": 5016623,
+   "ram": [
+    12
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 17",
+   "ui": "OriginOS 7",
+   "os_years": 5,
+   "sec_years": 7,
+   "bat": {
+    "mah": 6510,
+    "w": 90,
+    "wl": 40,
+    "rev": true,
+    "p30": null,
+    "full": null,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.6 OIS",
+     "64 MP tele f/2.5 OIS",
+     "50 MP ultra-angular f/2.0"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.28\"",
+    "ois": true,
+    "zoom": 3.5,
+    "video": "8K30",
+    "selfie": 50,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/vivo-x500-pro"
+  },
+  {
+   "id": "vivo-x300-ultra",
+   "brand": "Vivo",
+   "model": "X300 Ultra",
+   "name": "Vivo X300 Ultra",
+   "tier": "topo",
+   "fold": null,
+   "released": "2026-04",
+   "usd": 1199,
+   "brl_launch": null,
+   "brl_now": 15749,
+   "br_note": "Vendido no Brasil como Jovi X300 Ultra.",
+   "score": 93,
+   "s": {
+    "tela": 96,
+    "camera": 95,
+    "desempenho": 98,
+    "jogos": 96,
+    "bateria": 85,
+    "conect": 92
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.82,
+    "res": "1440 x 3168",
+    "ppi": 510,
+    "hz": 144,
+    "nits": 4500,
+    "nits_test": 3334,
+    "prot": "Armor Glass"
+   },
+   "body": {
+    "h": 162.98,
+    "w": 76.81,
+    "t": 8.49,
+    "g": 232,
+    "ip": "IP69",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Black",
+     "Green"
+    ]
+   },
+   "chip": "Snapdragon 8 Elite Gen 5",
+   "nm": 3,
+   "gb6s": 3784,
+   "gb6m": 11394,
+   "antutu": 4247433,
+   "ram": [
+    12,
+    16
+   ],
+   "rom": [
+    256,
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "OriginOS 6",
+   "os_years": 5,
+   "sec_years": 7,
+   "bat": {
+    "mah": 6600,
+    "w": 100,
+    "wl": 40,
+    "rev": true,
+    "p30": 66,
+    "full": 46,
+    "life": 29.18,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "200 MP principal f/1.9 OIS",
+     "200 MP tele f/2.7 OIS",
+     "50 MP ultra-angular f/2.0 OIS"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 200,
+    "sensor": "1/1.12\"",
+    "ois": true,
+    "zoom": 3.7,
+    "video": "8K30",
+    "selfie": 50,
+    "dxo": 170
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "6.0",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": 84.3
+   },
+   "src": "https://nanoreview.net/en/phone/vivo-x300-ultra"
+  },
+  {
+   "id": "vivo-v70",
+   "brand": "Vivo",
+   "model": "V70",
+   "name": "Vivo V70",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-02",
+   "usd": 500,
+   "brl_launch": 3499,
+   "brl_now": 2744,
+   "br_note": "Vendido no Brasil como Jovi V70.",
+   "score": 74,
+   "s": {
+    "tela": 92,
+    "camera": 79,
+    "desempenho": 56,
+    "jogos": 35,
+    "bateria": 83,
+    "conect": 73
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.59,
+    "res": "1260 x 2750",
+    "ppi": 459,
+    "hz": 120,
+    "nits": 5000,
+    "nits_test": null,
+    "prot": "Schott Xensation Core"
+   },
+   "body": {
+    "h": 157.52,
+    "w": 74.33,
+    "t": 7.59,
+    "g": 187,
+    "ip": "IP69",
+    "back": "Plastic",
+    "frame": "Metal",
+    "colors": [
+     "Black",
+     "Red"
+    ]
+   },
+   "chip": "Snapdragon 7 Gen 4",
+   "nm": 4,
+   "gb6s": 1279,
+   "gb6m": 4114,
+   "antutu": 1410609,
+   "ram": [
+    8,
+    12
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "UFS 4.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "OriginOS 6",
+   "os_years": 4,
+   "sec_years": 6,
+   "bat": {
+    "mah": 6500,
+    "w": 90,
+    "wl": 0,
+    "rev": true,
+    "p30": 48,
+    "full": 58,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.9 OIS",
+     "50 MP tele f/2.7 OIS",
+     "8 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": 3,
+    "video": "4K60",
+    "selfie": 50,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 6",
+    "bt": "5.4",
+    "nfc": true,
+    "esim": false,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/vivo-v70"
+  },
+  {
+   "id": "vivo-v70-fe",
+   "brand": "Vivo",
+   "model": "V70 FE",
+   "name": "Vivo V70 FE",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-03",
+   "usd": 350,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 71,
+   "s": {
+    "tela": 92,
+    "camera": 72,
+    "desempenho": 47,
+    "jogos": 19,
+    "bateria": 100,
+    "conect": 67
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.83,
+    "res": "1260 x 2800",
+    "ppi": 449,
+    "hz": 120,
+    "nits": 1900,
+    "nits_test": 1798,
+    "prot": "Tempered glass"
+   },
+   "body": {
+    "h": 163.7,
+    "w": 76.2,
+    "t": 7.59,
+    "g": 202,
+    "ip": "IP69",
+    "back": "Plastic",
+    "frame": "Plastic",
+    "colors": [
+     "Silver",
+     "Blue",
+     "Purple"
+    ]
+   },
+   "chip": "Dimensity 7360 Turbo",
+   "nm": 4,
+   "gb6s": 1025,
+   "gb6m": 2882,
+   "antutu": 1183301,
+   "ram": [
+    8,
+    12
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "UFS 3.1",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "OriginOS 6",
+   "os_years": 5,
+   "sec_years": 5,
+   "bat": {
+    "mah": 7000,
+    "w": 90,
+    "wl": 0,
+    "rev": true,
+    "p30": null,
+    "full": 70,
+    "life": 38.12,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "200 MP principal f/1.9",
+     "8 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 200,
+    "sensor": "1/1.56\"",
+    "ois": false,
+    "zoom": null,
+    "video": "4K30",
+    "selfie": 32,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 5",
+    "bt": "5.4",
+    "nfc": true,
+    "esim": false,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/vivo-v70-fe"
+  },
+  {
+   "id": "vivo-v60-lite-5g",
+   "brand": "Vivo",
+   "model": "V60 Lite 5G",
+   "name": "Vivo V60 Lite 5G",
+   "tier": "inter",
+   "fold": null,
+   "released": "2025-09",
+   "usd": 340,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 65,
+   "s": {
+    "tela": 85,
+    "camera": 66,
+    "desempenho": 43,
+    "jogos": 19,
+    "bateria": 84,
+    "conect": 69
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.77,
+    "res": "1080 x 2392",
+    "ppi": 388,
+    "hz": 120,
+    "nits": 3000,
+    "nits_test": null,
+    "prot": "Tempered glass"
+   },
+   "body": {
+    "h": 163.77,
+    "w": 76.28,
+    "t": 7.59,
+    "g": 194,
+    "ip": "IP65",
+    "back": null,
+    "frame": "Plastic",
+    "colors": [
+     "Black",
+     "Blue",
+     "Pink"
+    ]
+   },
+   "chip": "Dimensity 7360 Turbo",
+   "nm": 4,
+   "gb6s": 1023,
+   "gb6m": 2817,
+   "antutu": 925409,
+   "ram": [
+    8,
+    12
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "UFS 3.1",
+   "sd": false,
+   "os": "Android 15",
+   "ui": "Funtouch OS 15",
+   "os_years": null,
+   "sec_years": null,
+   "bat": {
+    "mah": 6500,
+    "w": 90,
+    "wl": 0,
+    "rev": false,
+    "p30": null,
+    "full": 52,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8",
+     "8 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.95\"",
+    "ois": false,
+    "zoom": null,
+    "video": "4K30",
+    "selfie": 32,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 6",
+    "bt": "5.4",
+    "nfc": true,
+    "esim": false,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/vivo-v60-lite-5g"
+  },
+  {
+   "id": "infinix-note-60-pro",
+   "brand": "Infinix",
+   "model": "Note 60 Pro",
+   "name": "Infinix Note 60 Pro",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-02",
+   "usd": null,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 68,
+   "s": {
+    "tela": 90,
+    "camera": 64,
+    "desempenho": 47,
+    "jogos": 30,
+    "bateria": 89,
+    "conect": 78
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.78,
+    "res": "1208 x 2644",
+    "ppi": 429,
+    "hz": 144,
+    "nits": 4500,
+    "nits_test": 2251,
+    "prot": "Corning Gorilla Glass 7i"
+   },
+   "body": {
+    "h": 162.37,
+    "w": 77.17,
+    "t": 7.36,
+    "g": 201.7,
+    "ip": "IP64",
+    "back": "Metal",
+    "frame": "Metal",
+    "colors": [
+     "Black",
+     "Silver",
+     "Gray",
+     "Orange",
+     "Brown"
+    ]
+   },
+   "chip": "Snapdragon 7s Gen 4",
+   "nm": 4,
+   "gb6s": 1239,
+   "gb6m": 3406,
+   "antutu": 1065801,
+   "ram": [
+    8,
+    12
+   ],
+   "rom": [
+    256
+   ],
+   "rom_type": "UFS 2.2",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "XOS 16",
+   "os_years": 3,
+   "sec_years": 5,
+   "bat": {
+    "mah": 6500,
+    "w": 90,
+    "wl": 30,
+    "rev": true,
+    "p30": null,
+    "full": 41,
+    "life": 30.95,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.6 OIS",
+     "8 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": null,
+    "ois": true,
+    "zoom": null,
+    "video": "4K30",
+    "selfie": 13,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 6",
+    "bt": "5.4",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/infinix-note-60-pro"
+  },
+  {
+   "id": "infinix-note-60",
+   "brand": "Infinix",
+   "model": "Note 60",
+   "name": "Infinix Note 60",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-02",
+   "usd": null,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 65,
+   "s": {
+    "tela": 89,
+    "camera": 63,
+    "desempenho": 44,
+    "jogos": 22,
+    "bateria": 79,
+    "conect": 70
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.78,
+    "res": "1208 x 2644",
+    "ppi": 429,
+    "hz": 144,
+    "nits": 4500,
+    "nits_test": null,
+    "prot": "Corning Gorilla Glass 7i"
+   },
+   "body": {
+    "h": 162.4,
+    "w": 77.2,
+    "t": 7.5,
+    "g": 199,
+    "ip": "IP64",
+    "back": "Metal",
+    "frame": "Metal",
+    "colors": [
+     "Black",
+     "Silver",
+     "Gold",
+     "Gray",
+     "Blue",
+     "Brown"
+    ]
+   },
+   "chip": "Dimensity 7400 Ultimate",
+   "nm": 4,
+   "gb6s": 1051,
+   "gb6m": 3181,
+   "antutu": 977113,
+   "ram": [
+    8
+   ],
+   "rom": [
+    128,
+    256
+   ],
+   "rom_type": "UFS 2.2",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "XOS 16",
+   "os_years": 3,
+   "sec_years": 5,
+   "bat": {
+    "mah": 6500,
+    "w": 45,
+    "wl": 30,
+    "rev": false,
+    "p30": null,
+    "full": 54,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.6 OIS",
+     "8 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": null,
+    "ois": true,
+    "zoom": null,
+    "video": "4K30",
+    "selfie": 13,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 5",
+    "bt": "5.4",
+    "nfc": true,
+    "esim": false,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/infinix-note-60"
+  },
+  {
+   "id": "infinix-hot-70-pro",
+   "brand": "Infinix",
+   "model": "Hot 70 Pro",
+   "name": "Infinix Hot 70 Pro",
+   "tier": "basico",
+   "fold": null,
+   "released": "2026-07",
+   "usd": 150,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 62,
+   "s": {
+    "tela": 85,
+    "camera": 65,
+    "desempenho": 37,
+    "jogos": 18,
+    "bateria": 74,
+    "conect": 65
+   },
+   "disp": {
+    "type": "IPS LCD",
+    "inch": 6.76,
+    "res": "1080 x 2344",
+    "ppi": 441,
+    "hz": 144,
+    "nits": 950,
+    "nits_test": null,
+    "prot": "Tempered glass"
+   },
+   "body": {
+    "h": 166.9,
+    "w": 79.5,
+    "t": 7.9,
+    "g": 204,
+    "ip": "IP68",
+    "back": "Plastic",
+    "frame": "Plastic",
+    "colors": [
+     "White",
+     "Black",
+     "Blue",
+     "Green",
+     "Orange",
+     "Purple"
+    ]
+   },
+   "chip": "Dimensity 7100",
+   "nm": 6,
+   "gb6s": 970,
+   "gb6m": 2882,
+   "antutu": 782313,
+   "ram": [
+    4,
+    6,
+    8
+   ],
+   "rom": [
+    128,
+    256
+   ],
+   "rom_type": "UFS 2.2",
+   "sd": true,
+   "os": "Android 16",
+   "ui": "XOS 16",
+   "os_years": 3,
+   "sec_years": 5,
+   "bat": {
+    "mah": 6000,
+    "w": 45,
+    "wl": 0,
+    "rev": true,
+    "p30": null,
+    "full": 55,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8"
+    ],
+    "kinds": [
+     "main"
+    ],
+    "main": 50,
+    "sensor": "1/1.95\"",
+    "ois": false,
+    "zoom": null,
+    "video": "1080p30",
+    "selfie": 8,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 5",
+    "bt": "5.4",
+    "nfc": true,
+    "esim": false,
+    "g5": true,
+    "jack": true,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/infinix-hot-70-pro"
+  },
+  {
+   "id": "infinix-gt-30-pro",
+   "brand": "Infinix",
+   "model": "GT 30 Pro",
+   "name": "Infinix GT 30 Pro",
+   "tier": "inter",
+   "fold": null,
+   "released": "2025-06",
+   "usd": 310,
+   "brl_launch": null,
+   "brl_now": 2254,
+   "br_note": null,
+   "score": 68,
+   "s": {
+    "tela": 89,
+    "camera": 66,
+    "desempenho": 61,
+    "jogos": 45,
+    "bateria": 66,
+    "conect": 75
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.78,
+    "res": "1224 x 2720",
+    "ppi": 440,
+    "hz": 144,
+    "nits": 4500,
+    "nits_test": 1916,
+    "prot": "Corning Gorilla Glass 7i"
+   },
+   "body": {
+    "h": 163.7,
+    "w": 75.8,
+    "t": 8,
+    "g": 189,
+    "ip": "IP64",
+    "back": "Plastic",
+    "frame": "Plastic",
+    "colors": [
+     "White",
+     "Black"
+    ]
+   },
+   "chip": "Dimensity 8350 Ultimate",
+   "nm": 4,
+   "gb6s": 1469,
+   "gb6m": 4431,
+   "antutu": 1740957,
+   "ram": [
+    8,
+    12
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "UFS 4.0",
+   "sd": false,
+   "os": "Android 15",
+   "ui": "XOS 15",
+   "os_years": 2,
+   "sec_years": 3,
+   "bat": {
+    "mah": 5200,
+    "w": 45,
+    "wl": 30,
+    "rev": true,
+    "p30": 50,
+    "full": 63,
+    "life": 22.25,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "108 MP principal f/1.9",
+     "8 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 108,
+    "sensor": "1/1.33\"",
+    "ois": false,
+    "zoom": null,
+    "video": "4K60",
+    "selfie": 13,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 6",
+    "bt": "5.4",
+    "nfc": true,
+    "esim": false,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/infinix-gt-30-pro"
+  },
+  {
+   "id": "infinix-smart-10",
+   "brand": "Infinix",
+   "model": "Smart 10",
+   "name": "Infinix Smart 10",
+   "tier": "basico",
+   "fold": null,
+   "released": "2025-06",
+   "usd": 70,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 47,
+   "s": {
+    "tela": 68,
+    "camera": 46,
+    "desempenho": 20,
+    "jogos": 11,
+    "bateria": 59,
+    "conect": 62
+   },
+   "disp": {
+    "type": "IPS LCD",
+    "inch": 6.67,
+    "res": "720 x 1600",
+    "ppi": 263,
+    "hz": 120,
+    "nits": 700,
+    "nits_test": null,
+    "prot": "Tempered glass"
+   },
+   "body": {
+    "h": 165.62,
+    "w": 77.01,
+    "t": 8.25,
+    "g": 187,
+    "ip": "IP64",
+    "back": "Plastic",
+    "frame": "Plastic",
+    "colors": [
+     "Black",
+     "Silver",
+     "Gold"
+    ]
+   },
+   "chip": "Unisoc T7250",
+   "nm": 12,
+   "gb6s": 441,
+   "gb6m": 1480,
+   "antutu": 358483,
+   "ram": [
+    3,
+    4,
+    6,
+    8
+   ],
+   "rom": [
+    64,
+    128,
+    256
+   ],
+   "rom_type": "eMMC 5.1",
+   "sd": true,
+   "os": "Android 15",
+   "ui": "XOS 15.1 (Go)",
+   "os_years": null,
+   "sec_years": null,
+   "bat": {
+    "mah": 5000,
+    "w": 15,
+    "wl": 0,
+    "rev": false,
+    "p30": null,
+    "full": null,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "8 MP principal f/2.0"
+    ],
+    "kinds": [
+     "main"
+    ],
+    "main": 8,
+    "sensor": "1/4.0\"",
+    "ois": false,
+    "zoom": null,
+    "video": "1080p30",
+    "selfie": 8,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 5",
+    "bt": "5.0",
+    "nfc": true,
+    "esim": false,
+    "g5": false,
+    "jack": true,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/infinix-smart-10"
+  },
+  {
+   "id": "tecno-camon-50-ultra",
+   "brand": "Tecno",
+   "model": "Camon 50 Ultra",
+   "name": "Tecno Camon 50 Ultra",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-03",
+   "usd": null,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 70,
+   "s": {
+    "tela": 90,
+    "camera": 83,
+    "desempenho": 43,
+    "jogos": 22,
+    "bateria": 80,
+    "conect": 69
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.78,
+    "res": "1208 x 2644",
+    "ppi": 429,
+    "hz": 144,
+    "nits": null,
+    "nits_test": 2418,
+    "prot": "Gorilla Glass Victus 2"
+   },
+   "body": {
+    "h": 162.4,
+    "w": 77,
+    "t": 7.4,
+    "g": 178,
+    "ip": "IP69",
+    "back": "Glass",
+    "frame": "Plastic",
+    "colors": [
+     "Black",
+     "Blue",
+     "Orange"
+    ]
+   },
+   "chip": "Dimensity 7400 Ultimate",
+   "nm": 4,
+   "gb6s": 1035,
+   "gb6m": 2980,
+   "antutu": 971081,
+   "ram": [
+    8,
+    12
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "UFS 2.2",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "HiOS 16",
+   "os_years": 3,
+   "sec_years": null,
+   "bat": {
+    "mah": 6150,
+    "w": 45,
+    "wl": 0,
+    "rev": true,
+    "p30": 42,
+    "full": 80,
+    "life": 27.25,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS",
+     "50 MP tele f/2.4",
+     "8 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": 3,
+    "video": "4K30",
+    "selfie": 50,
+    "dxo": 146
+   },
+   "con": {
+    "wifi": "Wi-Fi 6",
+    "bt": "5.3",
+    "nfc": true,
+    "esim": false,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/tecno-camon-50-ultra"
+  },
+  {
+   "id": "tecno-camon-50-pro-5g",
+   "brand": "Tecno",
+   "model": "Camon 50 Pro 5G",
+   "name": "Tecno Camon 50 Pro 5G",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-03",
+   "usd": null,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 66,
+   "s": {
+    "tela": 86,
+    "camera": 65,
+    "desempenho": 46,
+    "jogos": 24,
+    "bateria": 80,
+    "conect": 66
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.78,
+    "res": "1208 x 2644",
+    "ppi": 429,
+    "hz": 144,
+    "nits": null,
+    "nits_test": null,
+    "prot": "Tempered glass"
+   },
+   "body": {
+    "h": 162.4,
+    "w": 77,
+    "t": 7.8,
+    "g": 175,
+    "ip": "IP69",
+    "back": "Plastic",
+    "frame": "Plastic",
+    "colors": [
+     "Black",
+     "Gray",
+     "Green",
+     "Purple"
+    ]
+   },
+   "chip": "Dimensity 7400 Ultimate",
+   "nm": 4,
+   "gb6s": 1065,
+   "gb6m": 3199,
+   "antutu": 1059715,
+   "ram": [
+    8,
+    12
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "UFS 2.2",
+   "sd": true,
+   "os": "Android 16",
+   "ui": "HiOS 16",
+   "os_years": null,
+   "sec_years": null,
+   "bat": {
+    "mah": 6500,
+    "w": 45,
+    "wl": 0,
+    "rev": true,
+    "p30": null,
+    "full": null,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS",
+     "50 MP tele f/2.4",
+     "8 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": 3,
+    "video": "1080p30",
+    "selfie": 50,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 5",
+    "bt": "5.3",
+    "nfc": true,
+    "esim": false,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/tecno-camon-50-pro-5g"
+  },
+  {
+   "id": "tecno-pova-8-pro-5g",
+   "brand": "Tecno",
+   "model": "Pova 8 Pro 5G",
+   "name": "Tecno Pova 8 Pro 5G",
+   "tier": "inter",
+   "fold": null,
+   "released": "2026-08",
+   "usd": null,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 63,
+   "s": {
+    "tela": 86,
+    "camera": 55,
+    "desempenho": 45,
+    "jogos": 23,
+    "bateria": 80,
+    "conect": 79
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.78,
+    "res": "1208 x 2644",
+    "ppi": 429,
+    "hz": 144,
+    "nits": 4500,
+    "nits_test": null,
+    "prot": "Corning Gorilla Glass 7i"
+   },
+   "body": {
+    "h": 162.48,
+    "w": 77.27,
+    "t": 7.39,
+    "g": 189,
+    "ip": "IP69",
+    "back": null,
+    "frame": "Plastic",
+    "colors": [
+     "White",
+     "Black",
+     "Green"
+    ]
+   },
+   "chip": "Dimensity 7400 Ultimate",
+   "nm": 4,
+   "gb6s": 1050,
+   "gb6m": 3200,
+   "antutu": 994646,
+   "ram": [
+    8,
+    12
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "UFS 2.2",
+   "sd": false,
+   "os": "Android 16",
+   "ui": "HiOS 16",
+   "os_years": null,
+   "sec_years": null,
+   "bat": {
+    "mah": 6500,
+    "w": 45,
+    "wl": 30,
+    "rev": true,
+    "p30": null,
+    "full": 67,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.8 OIS",
+     "8 MP ultra-angular"
+    ],
+    "kinds": [
+     "main",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": null,
+    "video": "4K30",
+    "selfie": 13,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 6",
+    "bt": "5.4",
+    "nfc": true,
+    "esim": false,
+    "g5": true,
+    "jack": false,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/tecno-pova-8-pro-5g"
+  },
+  {
+   "id": "tecno-spark-50-5g",
+   "brand": "Tecno",
+   "model": "Spark 50 5G",
+   "name": "Tecno Spark 50 5G",
+   "tier": "basico",
+   "fold": null,
+   "released": "2026-04",
+   "usd": 160,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 57,
+   "s": {
+    "tela": 70,
+    "camera": 55,
+    "desempenho": 30,
+    "jogos": 13,
+    "bateria": 83,
+    "conect": 64
+   },
+   "disp": {
+    "type": "IPS LCD",
+    "inch": 6.78,
+    "res": "720 x 1576",
+    "ppi": 256,
+    "hz": 120,
+    "nits": null,
+    "nits_test": null,
+    "prot": "Tempered glass"
+   },
+   "body": {
+    "h": 167.9,
+    "w": 79.3,
+    "t": 8.2,
+    "g": 210,
+    "ip": "IP64",
+    "back": null,
+    "frame": null,
+    "colors": [
+     "Black",
+     "Gold",
+     "Green",
+     "Purple"
+    ]
+   },
+   "chip": "Dimensity 6400",
+   "nm": 6,
+   "gb6s": 810,
+   "gb6m": 2027,
+   "antutu": 568135,
+   "ram": [
+    4,
+    6
+   ],
+   "rom": [
+    128
+   ],
+   "rom_type": "UFS 2.2",
+   "sd": true,
+   "os": "Android 16",
+   "ui": "HiOS 16",
+   "os_years": null,
+   "sec_years": null,
+   "bat": {
+    "mah": 6500,
+    "w": 45,
+    "wl": 0,
+    "rev": false,
+    "p30": null,
+    "full": null,
+    "life": null,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.9"
+    ],
+    "kinds": [
+     "main"
+    ],
+    "main": 50,
+    "sensor": null,
+    "ois": false,
+    "zoom": null,
+    "video": "1080p30",
+    "selfie": 8,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 5",
+    "bt": "5.3",
+    "nfc": false,
+    "esim": false,
+    "g5": true,
+    "jack": true,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/tecno-spark-50-5g"
+  },
+  {
+   "id": "asus-zenfone-12-ultra",
+   "brand": "Asus",
+   "model": "Zenfone 12 Ultra",
+   "name": "Asus Zenfone 12 Ultra",
+   "tier": "topo",
+   "fold": null,
+   "released": "2025-02",
+   "usd": 999,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 79,
+   "s": {
+    "tela": 85,
+    "camera": 70,
+    "desempenho": 95,
+    "jogos": 79,
+    "bateria": 67,
+    "conect": 87
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.78,
+    "res": "1080 x 2400",
+    "ppi": 388,
+    "hz": 144,
+    "nits": 2500,
+    "nits_test": 1972,
+    "prot": null
+   },
+   "body": {
+    "h": 163.8,
+    "w": 77,
+    "t": 8.9,
+    "g": 220,
+    "ip": "IP68",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "White",
+     "Black",
+     "Green",
+     "Yellow"
+    ]
+   },
+   "chip": "Snapdragon 8 Elite",
+   "nm": 3,
+   "gb6s": 3164,
+   "gb6m": 9880,
+   "antutu": 3247013,
+   "ram": [
+    12,
+    16
+   ],
+   "rom": [
+    256,
+    512
+   ],
+   "rom_type": "UFS 4.0",
+   "sd": false,
+   "os": "Android 15",
+   "ui": null,
+   "os_years": 2,
+   "sec_years": 2,
+   "bat": {
+    "mah": 5500,
+    "w": 65,
+    "wl": 15,
+    "rev": true,
+    "p30": 77,
+    "full": 45,
+    "life": 21.97,
+    "charger": false
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.9 OIS",
+     "32 MP tele f/2.4 OIS",
+     "13 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": 3,
+    "video": "8K30",
+    "selfie": 32,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "5.4",
+    "nfc": true,
+    "esim": true,
+    "g5": true,
+    "jack": true,
+    "stereo": true,
+    "db": null
+   },
+   "src": "https://nanoreview.net/en/phone/asus-zenfone-12-ultra"
+  },
+  {
+   "id": "asus-rog-phone-9-pro",
+   "brand": "Asus",
+   "model": "ROG Phone 9 Pro",
+   "name": "Asus ROG Phone 9 Pro",
+   "tier": "topo",
+   "fold": null,
+   "released": "2024-11",
+   "usd": 1199,
+   "brl_launch": null,
+   "brl_now": null,
+   "br_note": null,
+   "score": 84,
+   "s": {
+    "tela": 84,
+    "camera": 79,
+    "desempenho": 97,
+    "jogos": 84,
+    "bateria": 84,
+    "conect": 87
+   },
+   "disp": {
+    "type": "AMOLED",
+    "inch": 6.78,
+    "res": "1080 x 2400",
+    "ppi": 388,
+    "hz": 185,
+    "nits": 2500,
+    "nits_test": 1964,
+    "prot": "Gorilla Glass Victus 2"
+   },
+   "body": {
+    "h": 163.8,
+    "w": 77,
+    "t": 8.9,
+    "g": 227,
+    "ip": "IP68",
+    "back": "Glass",
+    "frame": "Metal",
+    "colors": [
+     "Black"
+    ]
+   },
+   "chip": "Snapdragon 8 Elite",
+   "nm": 3,
+   "gb6s": 3298,
+   "gb6m": 10812,
+   "antutu": 3290813,
+   "ram": [
+    16,
+    24
+   ],
+   "rom": [
+    512,
+    1024
+   ],
+   "rom_type": "UFS 4.0",
+   "sd": false,
+   "os": "Android 15",
+   "ui": "ROG UI",
+   "os_years": 2,
+   "sec_years": 2,
+   "bat": {
+    "mah": 5800,
+    "w": 65,
+    "wl": 15,
+    "rev": true,
+    "p30": 76,
+    "full": 47,
+    "life": 29.37,
+    "charger": true
+   },
+   "cam": {
+    "lenses": [
+     "50 MP principal f/1.9 OIS",
+     "32 MP tele f/2.4 OIS",
+     "13 MP ultra-angular f/2.2"
+    ],
+    "kinds": [
+     "main",
+     "tele",
+     "ultra"
+    ],
+    "main": 50,
+    "sensor": "1/1.56\"",
+    "ois": true,
+    "zoom": 3,
+    "video": "8K30",
+    "selfie": 32,
+    "dxo": null
+   },
+   "con": {
+    "wifi": "Wi-Fi 7",
+    "bt": "5.4",
+    "nfc": true,
+    "esim": false,
+    "g5": true,
+    "jack": true,
+    "stereo": true,
+    "db": 90.1
+   },
+   "src": "https://nanoreview.net/en/phone/asus-rog-phone-9-pro"
+  }
+ ]
+}

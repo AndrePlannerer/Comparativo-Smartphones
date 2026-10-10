@@ -1,0 +1,51 @@
+<header class="top wrap">
+  <div class="top-row">
+    <div>
+      <h1>Comparativo de Smartphones</h1>
+      <p id="subtitulo"></p>
+    </div>
+    <div>
+      <div class="eyebrow" id="lbl-base" style="margin-bottom:4px">Base de preço</div>
+      <div class="seg" role="group" aria-labelledby="lbl-base">
+        <button type="button" id="base-br" data-base="br" aria-pressed="true">Brasil (R$)</button>
+        <button type="button" id="base-usd" data-base="usd" aria-pressed="false">Global (US$)</button>
+      </div>
+    </div>
+  </div>
+</header>
+
+<nav class="tabs" aria-label="Seções">
+  <div class="wrap" role="tablist">
+    <button type="button" role="tab" id="tab-catalogo" data-tab="catalogo" aria-selected="true">Catálogo</button>
+    <button type="button" role="tab" id="tab-comparar" data-tab="comparar" aria-selected="false">Comparar<span class="count" id="cmp-count">0</span></button>
+    <button type="button" role="tab" id="tab-rankings" data-tab="rankings" aria-selected="false">Rankings</button>
+    <button type="button" role="tab" id="tab-marcas" data-tab="marcas" aria-selected="false">Marcas</button>
+    <button type="button" role="tab" id="tab-grafico" data-tab="grafico" aria-selected="false">Preço × nota</button>
+  </div>
+</nav>
+
+<main class="wrap">
+  <section id="v-catalogo" data-view="catalogo"></section>
+  <section id="v-comparar" data-view="comparar" hidden></section>
+  <section id="v-rankings" data-view="rankings" hidden></section>
+  <section id="v-marcas" data-view="marcas" hidden></section>
+  <section id="v-grafico" data-view="grafico" hidden></section>
+</main>
+
+<div class="tray" id="tray" hidden>
+  <div class="wrap">
+    <span class="tray-sum" id="tray-sum"></span>
+    <div class="tray-items" id="tray-items"></div>
+    <button type="button" class="btn" id="tray-clear">Limpar</button>
+    <button type="button" class="btn primary" id="tray-go">Comparar</button>
+  </div>
+</div>
+
+<dialog id="dlg" aria-labelledby="dlg-title"></dialog>
+<div class="tip" id="tip" hidden></div>
+
+<footer class="wrap">
+  <p><b>Fontes.</b> Ficha técnica, benchmarks, testes de bateria e notas de 0 a 100: <a href="https://nanoreview.net/en/phone-list/antutu-rating" target="_blank" rel="noopener">NanoReview</a>. Preços no Brasil: menor preço encontrado pelo <a href="https://www.oficinadanet.com.br/smartphones" target="_blank" rel="noopener">Oficina da Net</a> e preços oficiais de lançamento noticiados por Tecnoblog, Canaltech, MacMagazine e Showmetech. Preços em dólar: preço de lançamento informado pelo NanoReview, SamMobile e Droid Life.</p>
+  <p><b>Como ler.</b> O custo-benefício mede quantos pontos a nota geral fica acima ou abaixo do esperado para o preço do aparelho, dentro da base de preço escolhida. Prós, contras e rótulos como "Muito bom" são gerados a partir dos dados da ficha. As ilustrações são esquemáticas, desenhadas com as proporções reais de cada aparelho.</p>
+  <p id="rodape-data"></p>
+</footer>
